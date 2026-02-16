@@ -1,13 +1,13 @@
-# Rijmmartijn
+## Rijmmartijn
 
-Deze code hoort bij de bijdrage **De *Martijntrilogie* van Maerlant* Rijmcomplexiteit als overlevingsmechanisme?**.
+Deze code hoort bij de bijdrage **De Martijntrilogie van Maerlant Rijmcomplexiteit als overlevingsmechanisme?**.
 
 Dit onderzoek vloeit voort uit een doctoraatsproject (projectnummer 1182725N) van Sofie Moors, gefinanceerd door het Fonds Wetenschappelijk Onderzoek (FWO). 
 
 Voor het ontwikkelen van de algoritmes werd generatieve AI (Claude Sonnet 4.5, claude-sonnet-4-5-20250929; Anthropic 2025) gebruikt voor hulp bij het verfijnen van prompts, het genereren en debuggen van code. Geraadpleegd via claude.ai.
 
 
-## STELLING 1: Het rijm is stabieler dan de voorgaande delen in een vers. 
+### STELLING 1: Het rijm is stabieler dan de voorgaande delen in een vers. 
  **src** 
 - `align_martijntrilogie.ipynb` - Alignering *Martijntrilogie*
 - `align_rijmbijbel.ipynb` - Alignering *Rijmbijbel*
@@ -17,7 +17,7 @@ Voor het ontwikkelen van de algoritmes werd generatieve AI (Claude Sonnet 4.5, c
 - `matches_rijmbijbel/` - Matches spelling + lemma *Rijmbijbel* (CollateX en Needleman-Wunsch)
 - `figures/` - Afbeeldingen *Martijntrilogie* en *Rijmbijbel*
 
-## STELLING 2: Kopiisten maken fouten ten opzichte van het rijm en creëren dus juist variatie.
+### STELLING 2: Kopiisten maken fouten ten opzichte van het rijm en creëren dus juist variatie.
 **src**
 - `staand-slepend.ipynb` - Analyse: "De afwisseling van staand en slepend rijm ontbreekt"
 - `rijm_algoritme.ipynb` - Analyse: "Er wordt klinkerrijm (assonantie) gevonden" en "Er worden onzuivere rijmen gevonden"
