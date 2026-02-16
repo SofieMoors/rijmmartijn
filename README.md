@@ -1,6 +1,6 @@
 ## Rijmmartijn
 
-Deze code hoort bij de bijdrage *De Martijntrilogie van Maerlant Rijmcomplexiteit als overlevingsmechanisme?*
+Deze code hoort bij de bijdrage *De Martijntrilogie van Maerlant. Rijmcomplexiteit als overlevingsmechanisme?*
 
 Dit onderzoek vloeit voort uit een doctoraatsproject (projectnummer 1182725N) van Sofie Moors, gefinanceerd door het Fonds Wetenschappelijk Onderzoek (FWO). 
 
