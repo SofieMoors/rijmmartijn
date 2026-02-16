@@ -1,0 +1,813 @@
+{
+  "M1": {
+    "a_feminine": [
+      {
+        "manuscript": "A",
+        "strofe": 36,
+        "vers_pos": 1,
+        "vers_id": "A_M1_36_456",
+        "word": "ghevraghet",
+        "syllables": [
+          "ghe",
+          "vra",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "A",
+        "strofe": 36,
+        "vers_pos": 2,
+        "vers_id": "A_M1_36_457",
+        "word": "verdraghet",
+        "syllables": [
+          "ver",
+          "dra",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "A",
+        "strofe": 36,
+        "vers_pos": 4,
+        "vers_id": "A_M1_36_459",
+        "word": "behaghet",
+        "syllables": [
+          "be",
+          "ha",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "A",
+        "strofe": 36,
+        "vers_pos": 5,
+        "vers_id": "A_M1_36_460",
+        "word": "gheiaghet",
+        "syllables": [
+          "ghe",
+          "ia",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "A",
+        "strofe": 36,
+        "vers_pos": 7,
+        "vers_id": "A_M1_36_462",
+        "word": "gheclaghet",
+        "syllables": [
+          "ghe",
+          "cla",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "A",
+        "strofe": 36,
+        "vers_pos": 8,
+        "vers_id": "A_M1_36_463",
+        "word": "ghewaghet",
+        "syllables": [
+          "ghe",
+          "wa",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "A",
+        "strofe": 36,
+        "vers_pos": 10,
+        "vers_id": "A_M1_36_465",
+        "word": "vermaghet",
+        "syllables": [
+          "ver",
+          "ma",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "A",
+        "strofe": 36,
+        "vers_pos": 11,
+        "vers_id": "A_M1_36_466",
+        "word": "ghevaghet",
+        "syllables": [
+          "ghe",
+          "va",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 36,
+        "vers_pos": 4,
+        "vers_id": "B_M1_36_459",
+        "word": "behaghet",
+        "syllables": [
+          "be",
+          "ha",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 36,
+        "vers_pos": 5,
+        "vers_id": "B_M1_36_460",
+        "word": "gheiaghet",
+        "syllables": [
+          "ghe",
+          "ia",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 36,
+        "vers_pos": 7,
+        "vers_id": "B_M1_36_462",
+        "word": "gheclaghet",
+        "syllables": [
+          "ghe",
+          "cla",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 36,
+        "vers_pos": 8,
+        "vers_id": "B_M1_36_463",
+        "word": "waghet",
+        "syllables": [
+          "wa",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 36,
+        "vers_pos": 10,
+        "vers_id": "B_M1_36_465",
+        "word": "vermaghet",
+        "syllables": [
+          "ver",
+          "ma",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 36,
+        "vers_pos": 11,
+        "vers_id": "B_M1_36_466",
+        "word": "veruaghet",
+        "syllables": [
+          "ver",
+          "ua",
+          "ghet"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 45,
+        "vers_pos": 4,
+        "vers_id": "B_M1_45_576",
+        "word": "alane",
+        "syllables": [
+          "a",
+          "la",
+          "ne"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 45,
+        "vers_pos": 5,
+        "vers_id": "B_M1_45_577",
+        "word": "waene",
+        "syllables": [
+          "wae",
+          "ne"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "F",
+        "strofe": 70,
+        "vers_pos": 5,
+        "vers_id": "F_M1_70_902",
+        "word": "lyen",
+        "syllables": [
+          "ly",
+          "en"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "H",
+        "strofe": 70,
+        "vers_pos": 5,
+        "vers_id": "H_M1_70_902",
+        "word": "lyen",
+        "syllables": [
+          "ly",
+          "en"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Y",
+        "strofe": 6,
+        "vers_pos": 4,
+        "vers_id": "Y_M1_06_069",
+        "word": "nare",
+        "syllables": [
+          "na",
+          "re"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Z",
+        "strofe": 31,
+        "vers_pos": 11,
+        "vers_id": "Z_M1_31_401",
+        "word": "vine",
+        "syllables": [
+          "vi",
+          "ne"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Z",
+        "strofe": 36,
+        "vers_pos": 1,
+        "vers_id": "Z_M1_36_456",
+        "word": "gevraget",
+        "syllables": [
+          "ge",
+          "vra",
+          "get"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Z",
+        "strofe": 36,
+        "vers_pos": 2,
+        "vers_id": "Z_M1_36_457",
+        "word": "verdraget",
+        "syllables": [
+          "ver",
+          "dra",
+          "get"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Z",
+        "strofe": 36,
+        "vers_pos": 4,
+        "vers_id": "Z_M1_36_459",
+        "word": "behaget",
+        "syllables": [
+          "be",
+          "ha",
+          "get"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Z",
+        "strofe": 36,
+        "vers_pos": 5,
+        "vers_id": "Z_M1_36_460",
+        "word": "geiaget",
+        "syllables": [
+          "ge",
+          "ia",
+          "get"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Z",
+        "strofe": 36,
+        "vers_pos": 7,
+        "vers_id": "Z_M1_36_462",
+        "word": "geclaget",
+        "syllables": [
+          "ge",
+          "cla",
+          "get"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Z",
+        "strofe": 36,
+        "vers_pos": 8,
+        "vers_id": "Z_M1_36_463",
+        "word": "verdraget",
+        "syllables": [
+          "ver",
+          "dra",
+          "get"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Z",
+        "strofe": 36,
+        "vers_pos": 11,
+        "vers_id": "Z_M1_36_466",
+        "word": "gevaget",
+        "syllables": [
+          "ge",
+          "va",
+          "get"
+        ],
+        "stresses": [
+          -2
+        ]
+      }
+    ],
+    "b_masculine": [
+      {
+        "manuscript": "A",
+        "strofe": 33,
+        "vers_pos": 12,
+        "vers_id": "A_M1_33_428",
+        "word": "claer",
+        "syllables": [
+          "claer"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "A",
+        "strofe": 33,
+        "vers_pos": 13,
+        "vers_id": "A_M1_33_429",
+        "word": "futselaer",
+        "syllables": [
+          "fut",
+          "se",
+          "laer"
+        ],
+        "stresses": [
+          -3,
+          -1
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 18,
+        "vers_pos": 3,
+        "vers_id": "B_M1_18_224",
+        "word": "verstaen",
+        "syllables": [
+          "ver",
+          "staen"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 18,
+        "vers_pos": 9,
+        "vers_id": "B_M1_18_230",
+        "word": "beuaen",
+        "syllables": [
+          "be",
+          "uaen"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "D",
+        "strofe": 18,
+        "vers_pos": 3,
+        "vers_id": "D_M1_18_224",
+        "word": "verstaen",
+        "syllables": [
+          "ver",
+          "staen"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "D",
+        "strofe": 18,
+        "vers_pos": 6,
+        "vers_id": "D_M1_18_227",
+        "word": "aen",
+        "syllables": [
+          "aen"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "D",
+        "strofe": 18,
+        "vers_pos": 9,
+        "vers_id": "D_M1_18_230",
+        "word": "bestaen",
+        "syllables": [
+          "be",
+          "staen"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "D",
+        "strofe": 18,
+        "vers_pos": 12,
+        "vers_id": "D_M1_18_233",
+        "word": "baen",
+        "syllables": [
+          "baen"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "D",
+        "strofe": 18,
+        "vers_pos": 13,
+        "vers_id": "D_M1_18_234",
+        "word": "gaen",
+        "syllables": [
+          "gaen"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "F",
+        "strofe": 6,
+        "vers_pos": 9,
+        "vers_id": "F_M1_06_074",
+        "word": "meer",
+        "syllables": [
+          "meer"
+        ],
+        "stresses": [
+          -1
+        ]
+      }
+    ]
+  },
+  "M2": {
+    "a_feminine": [
+      {
+        "manuscript": "F",
+        "strofe": 21,
+        "vers_pos": 10,
+        "vers_id": "F_M2_21_270",
+        "word": "lyen",
+        "syllables": [
+          "ly",
+          "en"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "G",
+        "strofe": 18,
+        "vers_pos": 8,
+        "vers_id": "G_M2_18_229",
+        "word": "gerden",
+        "syllables": [
+          "ger",
+          "den"
+        ],
+        "stresses": [
+          -2
+        ]
+      },
+      {
+        "manuscript": "Z",
+        "strofe": 26,
+        "vers_pos": 5,
+        "vers_id": "Z_M2_26_330",
+        "word": "zielen",
+        "syllables": [
+          "zie",
+          "len"
+        ],
+        "stresses": [
+          -2
+        ]
+      }
+    ],
+    "b_masculine": []
+  },
+  "M3": {
+    "a_masculine": [
+      {
+        "manuscript": "A",
+        "strofe": 27,
+        "vers_pos": 5,
+        "vers_id": "A_M3_27_343",
+        "word": "v",
+        "syllables": [
+          "v"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "A",
+        "strofe": 33,
+        "vers_pos": 1,
+        "vers_id": "A_M3_33_417",
+        "word": "meest",
+        "syllables": [
+          "meest"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 17,
+        "vers_pos": 1,
+        "vers_id": "B_M3_17_209",
+        "word": "croen",
+        "syllables": [
+          "croen"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 21,
+        "vers_pos": 1,
+        "vers_id": "B_M3_21_261",
+        "word": "lucifaer",
+        "syllables": [
+          "lu",
+          "ci",
+          "faer"
+        ],
+        "stresses": [
+          -3,
+          -1
+        ]
+      },
+      {
+        "manuscript": "B",
+        "strofe": 27,
+        "vers_pos": 5,
+        "vers_id": "B_M3_27_343",
+        "word": "v",
+        "syllables": [
+          "v"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "C",
+        "strofe": 33,
+        "vers_pos": 1,
+        "vers_id": "C_M3_33_417",
+        "word": "alremeest",
+        "syllables": [
+          "al",
+          "re",
+          "meest"
+        ],
+        "stresses": [
+          -3,
+          -1
+        ]
+      },
+      {
+        "manuscript": "C",
+        "strofe": 33,
+        "vers_pos": 2,
+        "vers_id": "C_M3_33_418",
+        "word": "gheest",
+        "syllables": [
+          "gheest"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "C",
+        "strofe": 33,
+        "vers_pos": 4,
+        "vers_id": "C_M3_33_420",
+        "word": "feest",
+        "syllables": [
+          "feest"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "C",
+        "strofe": 33,
+        "vers_pos": 5,
+        "vers_id": "C_M3_33_421",
+        "word": "beest",
+        "syllables": [
+          "beest"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "C",
+        "strofe": 33,
+        "vers_pos": 7,
+        "vers_id": "C_M3_33_423",
+        "word": "vreest",
+        "syllables": [
+          "vreest"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "C",
+        "strofe": 33,
+        "vers_pos": 8,
+        "vers_id": "C_M3_33_424",
+        "word": "volleest",
+        "syllables": [
+          "vol",
+          "leest"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "C",
+        "strofe": 33,
+        "vers_pos": 10,
+        "vers_id": "C_M3_33_426",
+        "word": "neest",
+        "syllables": [
+          "neest"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "C",
+        "strofe": 33,
+        "vers_pos": 11,
+        "vers_id": "C_M3_33_427",
+        "word": "tempeest",
+        "syllables": [
+          "tem",
+          "peest"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "D",
+        "strofe": 20,
+        "vers_pos": 1,
+        "vers_id": "D_M3_20_248",
+        "word": "gheschien",
+        "syllables": [
+          "ghe",
+          "schien"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "L",
+        "strofe": 29,
+        "vers_pos": 10,
+        "vers_id": "L_M3_29_374",
+        "word": "tant",
+        "syllables": [
+          "tant"
+        ],
+        "stresses": [
+          -1
+        ]
+      },
+      {
+        "manuscript": "L",
+        "strofe": 34,
+        "vers_pos": 11,
+        "vers_id": "L_M3_34_440",
+        "word": "laeu",
+        "syllables": [
+          "laeu"
+        ],
+        "stresses": [
+          -1
+        ]
+      }
+    ],
+    "b_feminine": []
+  }
+}

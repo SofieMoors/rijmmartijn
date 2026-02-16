@@ -1,0 +1,439 @@
+1) M1_02_014: 018
+niet: A, B, C, D, F, G, L, O, Y
+
+2) M1_39_500:506 
+- niet: A, B, Br, D, E, F
+- weg: C, G, O en Z (en Z creëert 1 extra met spelle) (telle zou origineel zijn, in de kritische editie fout opgenomen)
+
+3) M1_53_684:687 
+- niet: A, Ant, B, Br, C, D, F, G, O, Z
+- weg: H (lijt:glijt) 
+
+4) M1_27_341: M1_27_347 
+niet: A, B, C, D, F, G, O
+
+5) M2_18_225: M2_18_231
+niet: A, B, Br, D, D2, F, G, O
+
+6) M2_09_109: 115
+- niet: A, Br, O
+- weg: B, F, G
+
+7) M2_11_131:137
+niet: A, B, Br, D, F, G, H, O, Z
+
+8) M2_20_250:256
+- niet: A, B, Br, D, D2, F, G, O
+- weg: H
+
+9) M3_07_079:088
+- niet A, B, C, D, F, O, W, Z
+- weg: G en W (maar nieuwe gecreëerd met 080)
+
+10) M3_16_199:206
+niet: A, B, C, D, F, G, O, W
+
+11) M3_29_367:376
+niet: A, B, C, D, F, G, L, O, W
+
+12) M1_38_488:492
+niet: A, B, Br, C, D, E, F, G, O, Z
+
+13) M1_06_068:077
+niet: A, B, C, D, F, G, L, O, Y
+
+14) M1_21_262:267
+- niet: B, C, D, F, G, O
+- weg: A
+
+15) M2_12_148:151
+niet: A, B, Br, D, F, G, H, O, Z
+
+16) M1_08_094:103
+niet: A, B, C, D, F, G, L, O, Y
+
+17) M1_62_796:805
+niet: A, B, C, D, F, G, K, O
+
+18) M3_12_150:151
+- niet: A, B, C, E, F, G, O, W
+- weg: D 
+
+19) M1_01_007:011
+- niet: A, B, C, D, F, G, L, O
+- weg: Y 
+
+20) M1_04_044: M1_04_047
+niet: A, B, C, D, F, G, O, Y
+
+21) M1_40_511:M1_40_512
+niet: A, B, Br, C, D, E, F, G, O, Z
+
+22) M1_42_536:542
+niet: A, B, Br, C, D, E, F, G, O
+
+23) M1_62_798:M1_62_801
+- niet: A, B, C, D, G, L, O
+- weg: F, H, K
+
+24) M1_73_938:946
+niet: A, B, C, D, F, G, Ge, L, O
+
+25) M2_02_017:021
+- niet: A, B, D, D2, F, G, L
+- weg: O 
+
+26) M2_05_054:056
+niet: A, B, D, D2, F, G, H, L, O
+
+27) M2_05_057:062
+niet: A, B, D, D2, F, G, H, L, O
+
+28) M2_05_058:065
+- niet: A, B, F, G, L, O
+- weg: D, D2
+
+29) M3_21_267:271
+- niet: B, C, D, F, O
+- weg: G en W (maar nieuwe met 270)
+
+30) M1_07_081:087
+niet: A, B, C, D, F, G, L, O, Y
+
+31) M1_11_133:139:142
+niet: A, B, C, D, F, G, L, O, Y
+
+32) M1_21_266:273
+niet: A, B, C, D, F, G, O
+
+33) M1_25_313:319:323
+niet: A, B, C, D, F, G, O
+
+34) M1_43_552:555:559
+niet: A, B, Br, C, D, E, F, G, O
+
+35) M1_45_575:578:585
+niet: A, B, Br, C, D, F, G, H, O
+
+36) M1_47_601:607:611
+niet: A, B, Br, C, D, F, G, O
+
+37) M1_56_721:727
+- niet: A, B, C, D F, G, L, O
+- weg: Br (maar nieuwe met 718)
+
+38) M2_14_170:179
+- niet: A, B, D, F, G, O, Z
+- weg: Br (maar nieuwe met 177)
+
+39) M2_23_292:298
+niet: A, B, Br, D, D2, F, G, O
+
+40) M3_13_165:168
+niet: A, B, C, D, F, G, O, W
+
+41) M3_15_186:190
+niet: A, B, C, D, F, G, O, W
+
+42) M3_25_315:318
+niet: A, B, C, D, F, G, O, W
+
+43) M3_30_380:383:386
+niet: A, B, C, D, F, G, L, O, W
+
+44) M3_32_404:405
+niet: A, B, C, D, F, G, L, O, W
+
+45) M3_35_448:451
+niet: A, B, C, D, F, G, L, O, W, Y
+
+46) M1_09_105:112
+niet: A, B, C, D, F, G, L, O, Y
+
+47) M1_10_120:130
+niet: A, B, C, D, F, G, O, Y
+
+48) M1_10_125:128
+- niet: A, B, C, G, O, Y
+- weg: D, F (nieuwe met 118)
+
+49) M1_16_199:206
+niet: A, B, C, D, F, G, O
+
+50) M1_19_243:246
+niet: A, B, C, D, F, G, O
+
+51) M1_25_321:324
+- niet: A, B, C, F, G, O
+- weg: D
+
+52) M1_26_334:337
+niet: A, B, C, D, F, G, O
+
+53) M1_29_367:377
+niet: A, B, C, D, F, G, O, Z
+
+54) M1_39_498:501
+niet: A, B, Br, C, D, E, F, G, O, Z
+
+55) M1_41_521:530
+niet: A, B, Br, C, D, E, F, G, O, Z
+
+56) M1_43_548:551
+- niet: A, Br, C, E, F, G
+- weg: B, D, O
+
+57) M1_53_680:683
+- niet: B, Br, C, D, F, G, H, O, Z
+- weg: A (maar nieuwe met 686)
+
+58) M1_55_711:715
+- niet: B, Br, C, D, F, G, H, O
+- weg: A (maar nieuwe met 705), Z
+
+59) M1_60_779:780
+- niet: A, Br, C, D, G
+- weg: B, F, K, L, O (maar allemaal nieuwe gecreëerd met 770)
+
+60) M1_61_782:788
+niet: A, B, C, D, F, G, O
+
+61) M1_63_808:813:814
+- niet: A, B, C, G
+- weg: D, F, H, K, L, O
+
+62) M1_63_812:815
+niet: A, B, C, D, F, G, K, L, O
+
+63) M1_67_861:867
+niet: A, B, C, D, F, G, Ge, H, L, O
+
+64) M1_72_930:933
+niet: A, B, C, D, F, G, Ge, H, L, O
+
+65) M1_73_937:944
+- niet: A, B, C, D, F, Ge, H, L
+- weg: G, O
+
+66) M1_73_942:949
+- niet: B, C, D, F, G, Ge, L, O
+- weg: A (nieuwe met 939)
+
+67) M1_75_963:969
+niet: A, B, C, D, F, G, Ge, H, L, O
+
+68) M2_03_031:034
+niet: A, B, D, D2, F, G, Ge, H, L, O
+
+69) M2_07_080:088
+- niet: A, B, F, G, Ge, H, L
+- weg: D, D2, O (D2 en O > nieuwe met 083)
+
+70) M2_08_092:098
+- niet: Br, F, G, H, L,
+- weg: A, B, D, O
+
+71) M2_08_101:102
+niet: A, B, Br, D, D2, F, G, O
+
+72) M2_19_236:241
+- niet: A, B, Br, F, G, H
+- weg: D, O
+
+73) M2_20_257:258
+- niet: A, B
+- weg: Br, D, D2, F, G, H, O (maar bijna allemaal nieuwe met 249)
+
+74) M2_22_282:285
+niet: A, B, Br, D, D2, F, G, H, O
+
+75) M2_23_294:297
+niet: A, B, Br, D, D2, F, G, O
+
+76) M2_25_320:322
+niet: A, B, Br, D, D2, E, F, G, O, Z
+
+77) M3_06_067:075
+niet: A, B, C, D, F, G, O, W, Z
+
+78) M3_17_209:215
+niet: A, B, C, D, F, G, O, W
+
+79) M3_18_222:232
+niet: A, B, C, D, F, G, O, W
+
+80) M3_19_235:238
+niet: A, B, C, D, F, G, O, W
+
+81) M3_19_236:242
+niet: A, B, C, D, F, G, O, W
+
+82) M3_20_248:252
+- niet: B, C, F, O
+- weg: D, G, W (W:nieuwe)
+
+83) M3_24_302:312
+- niet: A, B, C, F, G, O, W
+- weg: D (maar met 305)
+
+84) M3_25_320:322
+- niet: A, C, D, F
+- weg: B (nieuwe met 313), G, O, W (= alle drie nieuwe met 314) 
+
+85) M3_26_327:332
+niet: A, B, C, D, F, G, O, W, Y
+
+86) M3_38_353:362
+- niet: A, B, C, F, G, O, W, Y
+- weg: D (nieuwe met 352)
+
+87) M3_31_392:397
+niet: A, B, C, D, F, G, L, O, W
+
+88) M3_33_419:429
+niet: A, B, C, F, G, L, O, W, Y
+
+89) M3_34_430:434
+niet: A, B, C, F, G, L, O, W
+
+90) M3_34_436:439
+niet: A, B, C, D, F, G, L, O, W
+
+91) M3_35_444:447
+- niet: A, B, C, D, F, G, O, W, Y
+- weg: L
+
+92) M3_35_449:453
+niet: A, B, C, D, F, G, L, O, W, Y
+
+93) M3_36_456:457
+- niet: A, B, C, F, G, L, O, W, Y
+- weg: D
+
+94) M3_39_495:505
+niet: A, B, C, D, F, G, L, O, W, Y
+
+95) M1_03_031:036
+niet: A, B, C, D, F, G, L, O, Y
+
+96) M1_08_096:099 
+niet: A, B, C, D, F, G, L, O, Y
+
+97) M1_10_119:125
+- niet: A, B, C, G, L, O, Y
+- weg: D, F (nieuwe met 118)
+
+98) M1_23_291:294
+niet: A, B, C, D, F, G, O
+
+99) M1_34_430:439
+niet: A, B, C, D, E, F, G, O
+
+100) M2_09_106:111
+niet: A, B, Br, D, F, G, O
+
+101) M2_18_223:226
+niet: A, B, Br, D, D2, F, G, O
+
+ {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "Y"], "weg": []},
+    {"niet": ["A", "B", "Br", "D", "E", "F"], "weg": ["C", "G", "O", "Z"]},
+    {"niet": ["A", "Ant", "B", "Br", "C", "D", "F", "G", "O", "Z"], "weg": ["H"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "Br", "D", "D2", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "Br", "O"], "weg": ["B", "F", "G"]},
+    {"niet": ["A", "B", "Br", "D", "F", "G", "H", "O", "Z"], "weg": []},
+    {"niet": ["A", "B", "Br", "D", "D2", "F", "G", "O"], "weg": ["H"]},
+    {"niet": ["A", "B", "C", "D", "F", "O", "W", "Z"], "weg": ["G", "W"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "Br", "C", "D", "E", "F", "G", "O", "Z"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "Y"], "weg": []},
+    {"niet": ["B", "C", "D", "F", "G", "O"], "weg": ["A"]},
+    {"niet": ["A", "B", "Br", "D", "F", "G", "H", "O", "Z"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "K", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "E", "F", "G", "O", "W"], "weg": ["D"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O"], "weg": ["Y"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "Y"], "weg": []},
+    {"niet": ["A", "B", "Br", "C", "D", "E", "F", "G", "O", "Z"], "weg": []},
+    {"niet": ["A", "B", "Br", "C", "D", "E", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "G", "L", "O"], "weg": ["F", "H", "K"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "Ge", "L", "O"], "weg": []},
+    {"niet": ["A", "B", "D", "D2", "F", "G", "L"], "weg": ["O"]},
+    {"niet": ["A", "B", "D", "D2", "F", "G", "H", "L", "O"], "weg": []},
+    {"niet": ["A", "B", "D", "D2", "F", "G", "H", "L", "O"], "weg": []},
+    {"niet": ["A", "B", "F", "G", "L", "O"], "weg": ["D", "D2"]},
+    {"niet": ["B", "C", "D", "F", "O"], "weg": ["G", "W"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "Br", "C", "D", "E", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "Br", "C", "D", "F", "G", "H", "O"], "weg": []},
+    {"niet": ["A", "B", "Br", "C", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O"], "weg": ["Br"]},
+    {"niet": ["A", "B", "D", "F", "G", "O", "Z"], "weg": ["Br"]},
+    {"niet": ["A", "B", "Br", "D", "D2", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "W", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "G", "O", "Y"], "weg": ["D", "F"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "F", "G", "O"], "weg": ["D"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "Z"], "weg": []},
+    {"niet": ["A", "B", "Br", "C", "D", "E", "F", "G", "O", "Z"], "weg": []},
+    {"niet": ["A", "B", "Br", "C", "D", "E", "F", "G", "O", "Z"], "weg": []},
+    {"niet": ["A", "Br", "C", "E", "F", "G"], "weg": ["B", "D", "O"]},
+    {"niet": ["B", "Br", "C", "D", "F", "G", "H", "O", "Z"], "weg": ["A"]},
+    {"niet": ["B", "Br", "C", "D", "F", "G", "H", "O"], "weg": ["A", "Z"]},
+    {"niet": ["A", "Br", "C", "D", "G"], "weg": ["B", "F", "K", "L", "O"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "G"], "weg": ["D", "F", "H", "K", "L", "O"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "K", "L", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "Ge", "H", "L", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "Ge", "H", "L", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "Ge", "H", "L"], "weg": ["G", "O"]},
+    {"niet": ["B", "C", "D", "F", "G", "Ge", "L", "O"], "weg": ["A"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "Ge", "H", "L", "O"], "weg": []},
+    {"niet": ["A", "B", "D", "D2", "F", "G", "Ge", "H", "L", "O"], "weg": []},
+    {"niet": ["A", "B", "F", "G", "Ge", "H", "L"], "weg": ["D", "D2", "O"]},
+    {"niet": ["Br", "F", "G", "H", "L"], "weg": ["A", "B", "D", "O"]},
+    {"niet": ["A", "B", "Br", "D", "D2", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "Br", "F", "G", "H"], "weg": ["D", "O"]},
+    {"niet": ["A", "B"], "weg": ["Br", "D", "D2", "F", "G", "H", "O"]},
+    {"niet": ["A", "B", "Br", "D", "D2", "F", "G", "H", "O"], "weg": []},
+    {"niet": ["A", "B", "Br", "D", "D2", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "Br", "D", "D2", "E", "F", "G", "O", "Z"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W", "Z"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W"], "weg": []},
+    {"niet": ["B", "C", "F", "O"], "weg": ["D", "G", "W"]},
+    {"niet": ["A", "B", "C", "F", "G", "O", "W"], "weg": ["D"]},
+    {"niet": ["A", "C", "D", "F"], "weg": ["B", "G", "O", "W"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "F", "G", "O", "W", "Y"], "weg": ["D"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "F", "G", "L", "O", "W", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "F", "G", "L", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "W"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O", "W", "Y"], "weg": ["L"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "W", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "F", "G", "L", "O", "W", "Y"], "weg": ["D"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "W", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "F", "G", "L", "O", "Y"], "weg": []},
+    {"niet": ["A", "B", "C", "G", "L", "O", "Y"], "weg": ["D", "F"]},
+    {"niet": ["A", "B", "C", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "C", "D", "E", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "Br", "D", "F", "G", "O"], "weg": []},
+    {"niet": ["A", "B", "Br", "D", "D2", "F", "G", "O"], "weg": []},
+]

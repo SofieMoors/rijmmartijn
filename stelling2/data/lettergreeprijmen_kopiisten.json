@@ -1,0 +1,4026 @@
+[
+  {
+    "manuscript": "A", #twee keer 'lech(t)' in plaats van 'echt'
+    "section": "M1",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "lecht",
+    "vers1_id": "A_M1_07_079",
+    "vers1_pos": 1,
+    "vers2_id": "A_M1_07_085",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "A",   #'al' in plaats van 'hal' (helen)
+    "section": "M1",
+    "strofe": 22,
+    "rhyme_letter": "A",
+    "word": "al",
+    "vers1_id": "A_M1_22_275",
+    "vers1_pos": 2,
+    "vers2_id": "A_M1_22_283",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "A",  #twee keer 'ontspringen' in plaats van 'dwingen'
+    "section": "M1",
+    "strofe": 31,
+    "rhyme_letter": "A",
+    "word": "ontsprinc",
+    "vers1_id": "A_M1_31_395",
+    "vers1_pos": 5,
+    "vers2_id": "A_M1_31_400",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "A",   #twee keer 'tellen' in plaats van 'spellen'
+    "section": "M1",
+    "strofe": 39,
+    "rhyme_letter": "B",
+    "word": "telle",
+    "vers1_id": "A_M1_39_500",
+    "vers1_pos": 6,
+    "vers2_id": "A_M1_39_506",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "A", #twee keer 'tellen' in plaats van 'scelt'
+    "section": "M1",
+    "strofe": 41,
+    "rhyme_letter": "A",
+    "word": "telt",
+    "vers1_id": "A_M1_41_528",
+    "vers1_pos": 8,
+    "vers2_id": "A_M1_41_530",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "A", #twee keer 'staet' in plaats van 'raet'
+    "section": "M1",
+    "strofe": 42,
+    "rhyme_letter": "A",
+    "word": "staet",
+    "vers1_id": "A_M1_42_537",
+    "vers1_pos": 4,
+    "vers2_id": "A_M1_42_540",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "A",  #twee keer 'hout' in plaats van 'bout'
+    "section": "M1",
+    "strofe": 44,
+    "rhyme_letter": "A",
+    "word": "hout",
+    "vers1_id": "A_M1_44_561",
+    "vers1_pos": 2,
+    "vers2_id": "A_M1_44_567",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "A", #twee keer 'tijt' in plaats van 'wijt'
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "A",
+    "word": "tijt",
+    "vers1_id": "A_M1_53_683",
+    "vers1_pos": 7,
+    "vers2_id": "A_M1_53_686",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "A", #twee keer 'bedroghen' in plaats van 'doorvloghen'
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "B",
+    "word": "bedroghen",
+    "vers1_id": "A_M1_53_682",
+    "vers1_pos": 6,
+    "vers2_id": "A_M1_53_688",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "A", #twee keer 'oghen' in plaats van 'hoghen' (spelling)
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "B",
+    "word": "oghen",
+    "vers1_id": "A_M1_53_679",
+    "vers1_pos": 3,
+    "vers2_id": "A_M1_53_689",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "A", #twee keer 'pant' in plaats van 'brant'
+    "section": "M1",
+    "strofe": 54,
+    "rhyme_letter": "A",
+    "word": "pant",
+    "vers1_id": "A_M1_54_691",
+    "vers1_pos": 2,
+    "vers2_id": "A_M1_54_700",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "A", #twee keer 'coninghinne' in plaats van 'godinne'
+    "section": "M1",
+    "strofe": 55,
+    "rhyme_letter": "B",
+    "word": "coninghinne",
+    "vers1_id": "A_M1_55_705",
+    "vers1_pos": 3,
+    "vers2_id": "A_M1_55_715",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "A", #twee keer 'pooch' in plaats van 'tooch'
+    "section": "M1",
+    "strofe": 67,
+    "rhyme_letter": "A",
+    "word": "pooch",
+    "vers1_id": "A_M1_67_863",
+    "vers1_pos": 5,
+    "vers2_id": "A_M1_67_866",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "A", #twee keer 'sneuven' in plaats van 'beven'
+    "section": "M1",
+    "strofe": 68,
+    "rhyme_letter": "B",
+    "word": "sneuen",
+    "vers1_id": "A_M1_68_874",
+    "vers1_pos": 3,
+    "vers2_id": "A_M1_68_883",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "A", #twee keer 'hout' in plaats van out' (spelling)
+    "section": "M1",
+    "strofe": 75,
+    "rhyme_letter": "A",
+    "word": "hout",
+    "vers1_id": "A_M1_75_963",
+    "vers1_pos": 1,
+    "vers2_id": "A_M1_75_967",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "A", #twee keer 'vaert' in plaats van 'hindervaert'
+    "section": "M2",
+    "strofe": 8,
+    "rhyme_letter": "A",
+    "word": "vaert",
+    "vers1_id": "A_M2_08_096",
+    "vers1_pos": 5,
+    "vers2_id": "A_M2_08_098",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "A", #twee keer 'niet' in plaats van 'iet'
+    "section": "M2",
+    "strofe": 9,
+    "rhyme_letter": "A",
+    "word": "niet",
+    "vers1_id": "A_M2_09_105",
+    "vers1_pos": 1,
+    "vers2_id": "A_M2_09_114",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "A", #twee keer 'scat' in plaats van 'stat'
+    "section": "M2",
+    "strofe": 10,
+    "rhyme_letter": "A",
+    "word": "scat",
+    "vers1_id": "A_M2_10_119",
+    "vers1_pos": 2,
+    "vers2_id": "A_M2_10_122",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "A", #twee keer 'bant' in plaats van 'vant'
+    "section": "M2",
+    "strofe": 12,
+    "rhyme_letter": "A",
+    "word": "bant",
+    "vers1_id": "A_M2_12_145",
+    "vers1_pos": 2,
+    "vers2_id": "A_M2_12_147",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "A", #twee keer 'macht' in plaats van 'cracht'
+    "section": "M2",
+    "strofe": 17,
+    "rhyme_letter": "A",
+    "word": "macht",
+    "vers1_id": "A_M2_17_212",
+    "vers1_pos": 4,
+    "vers2_id": "A_M2_17_213",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "A", #twee keer 'waer' in plaats van 'claer'
+    "section": "M2",
+    "strofe": 26,
+    "rhyme_letter": "A",
+    "word": "waer",
+    "vers1_id": "A_M2_26_326",
+    "vers1_pos": 1,
+    "vers2_id": "A_M2_26_332",
+    "vers2_pos": 7
+  },
+   {
+    "manuscript": "A", #twee keer 'dinghe(n)' in plaats van 'gehinghe'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "merke",
+    "vers1_id": "A_M3_02_015",
+    "vers1_pos": 1,
+    "vers2_id": "A_M3_02_021",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "A", #twee keer 'merke' in plaats van 'herke'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "merke",
+    "vers1_id": "A_M3_07_079",
+    "vers1_pos": 1,
+    "vers2_id": "A_M3_07_082",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "A", #twee keer 'merke' in plaats van 'herke'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "mercke",
+    "vers1_id": "A_M3_07_082",
+    "vers1_pos": 4,
+    "vers2_id": "A_M3_07_088",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "A", #twee keer 'alte male' in plaats van 'wale'
+    "section": "M3",
+    "strofe": 24,
+    "rhyme_letter": "A",
+    "word": "male",
+    "vers1_id": "A_M3_24_300",
+    "vers1_pos": 1,
+    "vers2_id": "A_M3_24_303",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "A", #twee keer 'hande' in plaats van 'ande' (spelling)
+    "section": "M3",
+    "strofe": 29,
+    "rhyme_letter": "A",
+    "word": "hande",
+    "vers1_id": "A_M3_29_368",
+    "vers1_pos": 4,
+    "vers2_id": "A_M3_29_372",
+    "vers2_pos": 8
+  },
+{
+    "manuscript": "A", #twee keer 'meest(e)' in plaats van 'neest'
+    "section": "M3",
+    "strofe": 33,
+    "rhyme_letter": "A",
+    "word": "meeste",
+    "vers1_id": "A_M3_33_417",
+    "vers1_pos": 1,
+    "vers2_id": "A_M3_33_426",
+    "vers2_pos": 10
+  },
+
+  {
+    "manuscript": "A", #twee keer 'haue' in plaats van 'aue' (spelling)
+    "section": "M3",
+    "strofe": 34,
+    "rhyme_letter": "A",
+    "word": "haue",
+    "vers1_id": "A_M3_34_431",
+    "vers1_pos": 2,
+    "vers2_id": "A_M3_34_433",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "A", #twee keer 'droemt' in plaats van 'comt'
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "B",
+    "word": "droemt",
+    "vers1_id": "A_M3_38_487",
+    "vers1_pos": 6,
+    "vers2_id": "A_M3_38_493",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "B", #twee keer 'saken' in plaats van 'spraken'
+    "section": "M1",
+    "strofe": 12,
+    "rhyme_letter": "B",
+    "word": "saken",
+    "vers1_id": "B_M1_12_146",
+    "vers1_pos": 3,
+    "vers2_id": "B_M1_12_155",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "B", #twee keer 'woirt' in plaats van 'oert'
+    "section": "M1",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word": "woirt",
+    "vers1_id": "B_M1_20_249",
+    "vers1_pos": 2,
+    "vers2_id": "B_M1_20_254",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "B",  #twee keer'al' in plaats van 'hal' (helen)
+    "section": "M1",
+    "strofe": 22,
+    "rhyme_letter": "A",
+    "word": "al",
+    "vers1_id": "B_M1_22_275",
+    "vers1_pos": 2,
+    "vers2_id": "B_M1_22_283",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "B", #twee keer 'leuen' in plaats van 'beven'
+    "section": "M1",
+    "strofe": 32,
+    "rhyme_letter": "B",
+    "word": "leuen",
+    "vers1_id": "B_M1_32_406",
+    "vers1_pos": 3,
+    "vers2_id": "B_M1_32_412",
+    "vers2_pos": 9
+  },
+  {
+    "manuscript": "B", #twee keer 'waghen' in plaats van 'verdraghen'
+    "section": "M1",
+    "strofe": 36,
+    "rhyme_letter": "B",
+    "word": "waghen",
+    "vers1_id": "B_M1_36_464",
+    "vers1_pos": 9,
+    "vers2_id": "B_M1_36_468",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "B", #twee keer 'si' in plaats van 'spi'
+    "section": "M1",
+    "strofe": 37,
+    "rhyme_letter": "A",
+    "word": "si",
+    "vers1_id": "B_M1_37_470",
+    "vers1_pos": 2,
+    "vers2_id": "B_M1_37_475",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "B", #twee keer 'tellen' in plaats van 'spellen'
+    "section": "M1",
+    "strofe": 39,
+    "rhyme_letter": "B",
+    "word": "telle",
+    "vers1_id": "B_M1_39_500",
+    "vers1_pos": 6,
+    "vers2_id": "B_M1_39_506",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "B", #twee keer 'rijcheden' in plaats van 'miltheden'
+    "section": "M1",
+    "strofe": 45,
+    "rhyme_letter": "B",
+    "word": "rijcheden",
+    "vers1_id": "B_M1_45_578",
+    "vers1_pos": 6,
+    "vers2_id": "B_M1_45_585",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "B", #twee keer 'verwijt' in plaats van 'nijt'
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "A",
+    "word": "verwijt",
+    "vers1_id": "B_M1_53_678",
+    "vers1_pos": 2,
+    "vers2_id": "B_M1_53_680",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "B", #twee keer 'oghen' in plaats van 'hoghen'
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "B",
+    "word": "oghen",
+    "vers1_id": "B_M1_53_679",
+    "vers1_pos": 3,
+    "vers2_id": "B_M1_53_689",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "B", #twee keer 'behout' in plaats van 'bout'
+    "section": "M1",
+    "strofe": 60,
+    "rhyme_letter": "A",
+    "word": "behout",
+    "vers1_id": "B_M1_60_769",
+    "vers1_pos": 2,
+    "vers2_id": "B_M1_60_775",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "B", #twee keer 'tooch' in plaats van 'booch'
+    "section": "M1",
+    "strofe": 67,
+    "rhyme_letter": "A",
+    "word": "tooch",
+    "vers1_id": "B_M1_67_865",
+    "vers1_pos": 7,
+    "vers2_id": "B_M1_67_866",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "B", #twee keer 'sneuven' in plaats van 'beven'
+    "section": "M1",
+    "strofe": 68,
+    "rhyme_letter": "B",
+    "word": "sneuen",
+    "vers1_id": "B_M1_68_874",
+    "vers1_pos": 3,
+    "vers2_id": "B_M1_68_883",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "B", #twee keer 'vint' in plaats van 'kint'
+    "section": "M1",
+    "strofe": 72,
+    "rhyme_letter": "A",
+    "word": "vint",
+    "vers1_id": "B_M1_72_924",
+    "vers1_pos": 1,
+    "vers2_id": "B_M1_72_927",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "B", #twee keer 'vaert/vairt' in plaats van hindervaert
+    "section": "M2",
+    "strofe": 8,
+    "rhyme_letter": "A",
+    "vers1_id": "B_M2_08_096",
+    "vers1_pos": 5,
+    "vers2_id": "B_M2_08_098",
+    "vers2_pos": 7,
+    "match_type": "consonant_variant"
+  },
+  {
+    "manuscript": "B", #twee keer 'dan' in plaats van 'verwan'
+    "section": "M2",
+    "strofe": 15,
+    "rhyme_letter": "A",
+    "word": "dan",
+    "vers1_id": "B_M2_15_187",
+    "vers1_pos": 5,
+    "vers2_id": "B_M2_15_190",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "B", #twee keer 'bant' in plaats van 'pant'
+    "section": "M2",
+    "strofe": 22,
+    "rhyme_letter": "A",
+    "word": "bant",
+    "vers1_id": "B_M2_22_278",
+    "vers1_pos": 5,
+    "vers2_id": "B_M2_22_284",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "B", #twee keer 'leuen' in plaats van 'beuen'
+    "section": "M2",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word": "leuen",
+    "vers1_id": "B_M2_24_302",
+    "vers1_pos": 3,
+    "vers2_id": "B_M2_24_312",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "B", #twee keer 'merke' in plaats van 'herke'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "mercke",
+    "vers1_id": "B_M3_07_082",
+    "vers1_pos": 4,
+    "vers2_id": "B_M3_07_088",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "B", #twee keer 'g(h)elike' in plaats van 'slike'
+    "section": "M3",
+    "strofe": 19,
+    "rhyme_letter": "A",
+    "word": "ghelike",
+    "vers1_id": "B_M3_19_236",
+    "vers1_pos": 2,
+    "vers2_id": "B_M3_19_244",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "B", #twee keer 'here' in plaats van 'ere'
+    "section": "M3",
+    "strofe": 25,
+    "rhyme_letter": "A",
+    "word": "here",
+    "vers1_id": "B_M3_25_313",
+    "vers1_pos": 1,
+    "vers2_id": "B_M3_25_320",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "B", #twee keer 'hande' in plaats van 'ande' (spelling)
+    "section": "M3",
+    "strofe": 29,
+    "rhyme_letter": "A",
+    "word": "hande",
+    "vers1_id": "B_M3_29_368",
+    "vers1_pos": 4,
+    "vers2_id": "B_M3_29_372",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "B", #twee keer 'neeste' in plaats van 'meeste'
+    "section": "M3",
+    "strofe": 33,
+    "rhyme_letter": "A",
+    "word": "neeste",
+    "vers1_id": "B_M3_33_417",
+    "vers1_pos": 1,
+    "vers2_id": "B_M3_33_426",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "B", #twee keer 'waren' in plaats van 'twaren' (spelling)
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "waren",
+    "vers1_id": "B_M3_36_456",
+    "vers1_pos": 1,
+    "vers2_id": "B_M3_36_457",
+    "vers2_pos": 2
+  },
+  {
+    "manuscript": "B", #twee keer 'smaken' in plaats van 'maken'
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word": "smake",
+    "vers1_id": "B_M3_38_486",
+    "vers1_pos": 5,
+    "vers2_id": "B_M3_38_489",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "Br", #twee keer 'tellen' in plaats van 'spellen'
+    "section": "M1",
+    "strofe": 39,
+    "rhyme_letter": "B",
+    "word": "telle",
+    "vers1_id": "Br_M1_39_500",
+    "vers1_pos": 6,
+    "vers2_id": "Br_M1_39_506",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "Br", #twee keer 'nijt' in plaats van 'vlijt'
+    "section": "M1",
+    "strofe": 47,
+    "rhyme_letter": "A",
+    "word": "nijt",
+    "vers1_id": "Br_M1_47_599",
+    "vers1_pos": 1,
+    "vers2_id": "Br_M1_47_609",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "Br", #twee keer 'pant' in plaats van 'brant'
+    "section": "M1",
+    "strofe": 54,
+    "rhyme_letter": "A",
+    "word": "pant",
+    "vers1_id": "Br_M1_54_691",
+    "vers1_pos": 2,
+    "vers2_id": "Br_M1_54_700",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "Br", #twee keer 'loeder' in plaats van 'roeder'
+    "section": "M2",
+    "strofe": 10,
+    "rhyme_letter": "B",
+    "word": "loeder",
+    "vers1_id": "Br_M2_10_126",
+    "vers1_pos": 9,
+    "vers2_id": "Br_M2_10_129",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "Br", #twee keer 'bant' in plaats van 'vant'
+    "section": "M2",
+    "strofe": 12,
+    "rhyme_letter": "A",
+    "word": "bant",
+    "vers1_id": "Br_M2_12_145",
+    "vers1_pos": 2,
+    "vers2_id": "Br_M2_12_147",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "Br", #twee keer 'becoort' in plaats van 'begoort'
+    "section": "M2",
+    "strofe": 13,
+    "rhyme_letter": "A",
+    "word": "becoort",
+    "vers1_id": "Br_M2_13_164",
+    "vers1_pos": 8,
+    "vers2_id": "Br_M2_13_166",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "Br", #twee keer 'couent' in plaats van 'torment'
+    "section": "M2",
+    "strofe": 14,
+    "rhyme_letter": "A",
+    "word": "couent",
+    "vers1_id": "Br_M2_14_177",
+    "vers1_pos": 8,
+    "vers2_id": "Br_M2_14_179",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "Br", #twee keer 'gewes' in plaats van 'geles'
+    "section": "M2",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word": "gewes",
+    "vers1_id": "Br_M2_20_249",
+    "vers1_pos": 2,
+    "vers2_id": "Br_M2_20_258",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "Br", #twee keer 'waer' in plaats van 'claer'
+    "section": "M2",
+    "strofe": 26,
+    "rhyme_letter": "A",
+    "word": "waer",
+    "vers1_id": "Br_M2_26_326",
+    "vers1_pos": 1,
+    "vers2_id": "Br_M2_26_332",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "Br", #twee keer 'gehinge' in plaats van 'ghinghe'
+    "section": "M3",
+    "strofe": 2,
+    "rhyme_letter": "A",
+    "word": "gehinge",
+    "vers1_id": "Br_M3_02_021",
+    "vers1_pos": 8,
+    "vers2_id": "Br_M3_02_023",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "Br", #twee keer 'doge' in plaats van 'toge'
+    "section": "M3",
+    "strofe": 3,
+    "rhyme_letter": "A",
+    "word": "doge",
+    "vers1_id": "Br_M3_03_031",
+    "vers1_pos": 5,
+    "vers2_id": "Br_M3_03_036",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "C", #twee keer 'plaghen' in plaats van 'slaghen'
+    "section": "M1",
+    "strofe": 16,
+    "rhyme_letter": "B",
+    "word": "plaghen",
+    "vers1_id": "C_M1_16_201",
+    "vers1_pos": 6,
+    "vers2_id": "C_M1_16_204",
+    "vers2_pos": 9
+  },
+  {
+    "manuscript": "C", #twee keer 'oghen' in plaats van 'hoghen'
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "B",
+    "word": "oghen",
+    "vers1_id": "C_M1_53_679",
+    "vers1_pos": 3,
+    "vers2_id": "C_M1_53_689",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "C", #twee keer 'gheureest' in plaats van 'verheest'
+    "section": "M3",
+    "strofe": 10,
+    "rhyme_letter": "B",
+    "word": "gheureest",
+    "vers1_id": "C_M3_10_126",
+    "vers1_pos": 9,
+    "vers2_id": "C_M3_10_129",
+    "vers2_pos": 12
+  },
+   {
+    "manuscript": "C", #twee keer 'ere' in plaats van 'onere'
+    "section": "M3",
+    "strofe": 21,
+    "rhyme_letter": "A",
+    "word": "ere",
+    "vers1_id": "C_M3_21_267",
+    "vers1_pos": 7,
+    "vers2_id": "C_M3_21_271",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "C", #twee keer 'hande' in plaats van 'tande'
+    "section": "M3",
+    "strofe": 29,
+    "rhyme_letter": "A",
+    "word": "hande",
+    "vers1_id": "C_M3_29_368",
+    "vers1_pos": 4,
+    "vers2_id": "C_M3_29_374",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "D", #twee keer 'wel' in plaats van 'vel'
+    "section": "M1",
+    "strofe": 10,
+    "rhyme_letter": "A",
+    "word": "wel",
+    "vers1_id": "D_M1_10_118",
+    "vers1_pos": 1,
+    "vers2_id": "D_M1_10_125",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "D", #twee keer '(be)hoeden' in plaats van 'goeden'
+    "section": "M1",
+    "strofe": 13,
+    "rhyme_letter": "B",
+    "word": "hoeden",
+    "vers1_id": "D_M1_13_159",
+    "vers1_pos": 3,
+    "vers2_id": "D_M1_13_162",
+    "vers2_pos": 6
+  },
+  {
+    "manuscript": "D", #twee keer 'spaert' in plaats van 'vertaert'
+    "section": "M1",
+    "strofe": 14,
+    "rhyme_letter": "A",
+    "word": "spaert",
+    "vers1_id": "D_M1_14_173",
+    "vers1_pos": 4,
+    "vers2_id": "D_M1_14_179",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "D", #twee keer 'wreet' in plaats van 'heet'
+    "section": "M1",
+    "strofe": 16,
+    "rhyme_letter": "A",
+    "word": "wreet",
+    "vers1_id": "D_M1_16_196",
+    "vers1_pos": 1,
+    "vers2_id": "D_M1_16_200",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "D", #twee keer 'tellen' in plaats van 'spellen'
+    "section": "M1",
+    "strofe": 39,
+    "rhyme_letter": "B",
+    "word": "telle",
+    "vers1_id": "D_M1_39_500",
+    "vers1_pos": 6,
+    "vers2_id": "D_M1_39_506",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "D", #twee keer 'staet' in plaats van 'raet'
+    "section": "M1",
+    "strofe": 42,
+    "rhyme_letter": "A",
+    "word": "staet",
+    "vers1_id": "D_M1_42_537",
+    "vers1_pos": 4,
+    "vers2_id": "D_M1_42_540",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "D", #twee keer 'bedroghen' in plaats van 'doorvloghen'
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "B",
+    "word": "bedroghen",
+    "vers1_id": "D_M1_53_682",
+    "vers1_pos": 6,
+    "vers2_id": "D_M1_53_688",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "D", #twee keer 'torment' in plaats van 'convent'
+    "section": "M1",
+    "strofe": 65,
+    "rhyme_letter": "A",
+    "word": "torment",
+    "vers1_id": "D_M1_65_834",
+    "vers1_pos": 2,
+    "vers2_id": "D_M1_65_843",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "D", #twee keer 'vint' in plaats van 'kint'
+    "section": "M1",
+    "strofe": 72,
+    "rhyme_letter": "A",
+    "word": "vint",
+    "vers1_id": "D_M1_72_924",
+    "vers1_pos": 1,
+    "vers2_id": "D_M1_72_927",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "D", #twee keer 'gewes' in plaats van 'geles'
+    "section": "M2",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word": "ghewes",
+    "vers1_id": "D_M2_20_249",
+    "vers1_pos": 2,
+    "vers2_id": "D_M2_20_258",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "D", #twee keer 'sat' in plaats van 'mat'
+    "section": "M2",
+    "strofe": 23,
+    "rhyme_letter": "A",
+    "word": "sat",
+    "vers1_id": "D_M2_23_291",
+    "vers1_pos": 5,
+    "vers2_id": "D_M2_23_294",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "D", #twee keer 'sat' in plaats van 'mat'
+    "section": "M2",
+    "strofe": 23,
+    "rhyme_letter": "A",
+    "word": "sat",
+    "vers1_id": "D_M2_23_291",
+    "vers1_pos": 5,
+    "vers2_id": "D_M2_23_297",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "D", #twee keer 'leuen' in plaats van 'beuen'
+    "section": "M2",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word": "leuen",
+    "vers1_id": "D_M2_24_302",
+    "vers1_pos": 3,
+    "vers2_id": "D_M2_24_312",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "D", #twee keer 'gehing(h)e' in plaats van 'ghinghe'
+    "section": "M3",
+    "strofe": 2,
+    "rhyme_letter": "A",
+    "word": "gehinge",
+    "vers1_id": "D_M3_02_021",
+    "vers1_pos": 8,
+    "vers2_id": "D_M3_02_023",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "D", #twee keer 'godheyt' in plaats van 'menschelicheit'
+    "section": "M3",
+    "strofe": 13,
+    "rhyme_letter": "B",
+    "word": "godheyt",
+    "vers1_id": "D_M3_13_165",
+    "vers1_pos": 9,
+    "vers2_id": "D_M3_13_168",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "D", #twee keer 'ere' in plaats van 'onere'
+    "section": "M3",
+    "strofe": 21,
+    "rhyme_letter": "A",
+    "word": "ere",
+    "vers1_id": "D_M3_21_267",
+    "vers1_pos": 7,
+    "vers2_id": "D_M3_21_271",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "D", #twee keer 'bint' in plaats van 'mint'
+    "section": "M3",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word": "bint",
+    "vers1_id": "D_M3_24_308",
+    "vers1_pos": 9,
+    "vers2_id": "D_M3_24_311",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "D",
+    "section": "M3", #twee keer 'twint' in plaats van 'bekint'
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word": "twint",
+    "vers1_id": "D_M3_24_305",
+    "vers1_pos": 6,
+    "vers2_id": "D_M3_24_312",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "D", #twee keer 'besniden' in plaats van 'beniden'
+    "section": "M3",
+    "strofe": 26,
+    "rhyme_letter": "A",
+    "word": "besniden",
+    "vers1_id": "D_M3_26_326",
+    "vers1_pos": 1,
+    "vers2_id": "D_M3_26_329",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "D", #twee keer 'waren' in plaats van 'verzwaren'
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "waren",
+    "vers1_id": "D_M3_36_457",
+    "vers1_pos": 2,
+    "vers2_id": "D_M3_36_463",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "D", #twee keer 'sparen' in plaats van 'misbaren'
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "sparen",
+    "vers1_id": "D_M3_36_460",
+    "vers1_pos": 5,
+    "vers2_id": "D_M3_36_466",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "D", #twee keer 'smaken' in plaats van 'maken'
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word": "smake",
+    "vers1_id": "D_M3_38_486",
+    "vers1_pos": 5,
+    "vers2_id": "D_M3_38_489",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "D2", #twee keer 'gewes' in plaats van 'geles'
+    "section": "M2",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word": "ghewes",
+    "vers1_id": "D2_M2_20_249",
+    "vers1_pos": 2,
+    "vers2_id": "D2_M2_20_258",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "D2", #twee keer 'sat' in plaats van 'mat'
+    "section": "M2",
+    "strofe": 23,
+    "rhyme_letter": "A",
+    "word": "sat",
+    "vers1_id": "D2_M2_23_291",
+    "vers1_pos": 5,
+    "vers2_id": "D2_M2_23_294",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "D2", #twee keer 'sat' in plaats van 'mat'
+    "section": "M2",
+    "strofe": 23,
+    "rhyme_letter": "A",
+    "word": "sat",
+    "vers1_id": "D2_M2_23_291",
+    "vers1_pos": 5,
+    "vers2_id": "D2_M2_23_297",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "D2", #twee keer 'leuen' in plaats van 'beuen'
+    "section": "M2",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word": "leuen",
+    "vers1_id": "D2_M2_24_302",
+    "vers1_pos": 3,
+    "vers2_id": "D2_M2_24_312",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "E", #twee keer 'tellen' in plaats van 'spellen'
+    "section": "M1",
+    "strofe": 39,
+    "rhyme_letter": "B",
+    "word": "telle",
+    "vers1_id": "E_M1_39_500",
+    "vers1_pos": 6,
+    "vers2_id": "E_M1_39_506",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "E", #twee keer 'staet' in plaats van 'raet'
+    "section": "M1",
+    "strofe": 42,
+    "rhyme_letter": "A",
+    "word": "staet",
+    "vers1_id": "E_M1_42_537",
+    "vers1_pos": 4,
+    "vers2_id": "E_M1_42_540",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "E", #twee keer 'waer' in plaats van 'claer'
+    "section": "M2",
+    "strofe": 26,
+    "rhyme_letter": "A",
+    "word": "waer",
+    "vers1_id": "E_M2_26_326",
+    "vers1_pos": 1,
+    "vers2_id": "E_M2_26_332",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "F", #twee keer 'wel' in plaats van 'vel'
+    "section": "M1",
+    "strofe": 10,
+    "rhyme_letter": "A",
+    "word": "wel",
+    "vers1_id": "F_M1_10_118",
+    "vers1_pos": 1,
+    "vers2_id": "F_M1_10_125",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "F", #twee keer 'hoeden' in plaats van 'goeden'
+    "section": "M1",
+    "strofe": 13,
+    "rhyme_letter": "B",
+    "word": "hoeden",
+    "vers1_id": "F_M1_13_159",
+    "vers1_pos": 3,
+    "vers2_id": "F_M1_13_162",
+    "vers2_pos": 6
+  },
+  {
+    "manuscript": "F", #twee keer 'spaert' in plaats van 'vertaert'
+    "section": "M1",
+    "strofe": 14,
+    "rhyme_letter": "A",
+    "word": "spaert",
+    "vers1_id": "F_M1_14_173",
+    "vers1_pos": 4,
+    "vers2_id": "F_M1_14_179",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "F", #twee keer 'wreet' in plaats van 'heet'
+    "section": "M1",
+    "strofe": 16,
+    "rhyme_letter": "A",
+    "word": "wreet",
+    "vers1_id": "F_M1_16_196",
+    "vers1_pos": 1,
+    "vers2_id": "F_M1_16_200",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "F", #twee keer 'woirt' in plaats van 'oert'
+    "section": "M1",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word": "woirt",
+    "vers1_id": "F_M1_20_249",
+    "vers1_pos": 2,
+    "vers2_id": "F_M1_20_254",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "F", #twee keer 'mijn' in plaats van 'dijn'
+    "section": "M1",
+    "strofe": 23,
+    "rhyme_letter": "A",
+    "word": "mijn",
+    "vers1_id": "F_M1_23_287",
+    "vers1_pos": 1,
+    "vers2_id": "F_M1_23_296",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "F", #twee keer 'verdragen' in plaats van 'vragen'
+    "section": "M1",
+    "strofe": 36,
+    "rhyme_letter": "B",
+    "word": "verdragen",
+    "vers1_id": "F_M1_36_458",
+    "vers1_pos": 3,
+    "vers2_id": "F_M1_36_464",
+    "vers2_pos": 9
+  },
+  {
+    "manuscript": "F", #twee keer 'tellen' in plaats van 'spellen'
+    "section": "M1",
+    "strofe": 39,
+    "rhyme_letter": "B",
+    "word": "telle",
+    "vers1_id": "F_M1_39_500",
+    "vers1_pos": 6,
+    "vers2_id": "F_M1_39_506",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "F",  #twee keer 'hout' in plaats van 'bout'
+    "section": "M1",
+    "strofe": 44,
+    "rhyme_letter": "A",
+    "word": "hout",
+    "vers1_id": "F_M1_44_561",
+    "vers1_pos": 2,
+    "vers2_id": "F_M1_44_567",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "F", #twee keer 'nijt' in plaats van 'vlijt'
+    "section": "M1",
+    "strofe": 47,
+    "rhyme_letter": "A",
+    "word": "nijt",
+    "vers1_id": "F_M1_47_599",
+    "vers1_pos": 1,
+    "vers2_id": "F_M1_47_609",
+    "vers2_pos": 11
+  },
+   {
+    "manuscript": "F", #twee keer 'oghen' in plaats van 'hoghen' (spelling)
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "B",
+    "word": "oghen",
+    "vers1_id": "F_M1_53_679",
+    "vers1_pos": 3,
+    "vers2_id": "F_M1_53_689",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "F", #twee keer 'pant' in plaats van 'brant'
+    "section": "M1",
+    "strofe": 54,
+    "rhyme_letter": "A",
+    "word": "pant",
+    "vers1_id": "F_M1_54_691",
+    "vers1_pos": 2,
+    "vers2_id": "F_M1_54_700",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "F", #twee keer 'vaer' in plaats van 'naer'
+    "section": "M1",
+    "strofe": 59,
+    "rhyme_letter": "A",
+    "word": "vaer",
+    "vers1_id": "F_M1_59_759",
+    "vers1_pos": 5,
+    "vers2_id": "F_M1_59_762",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "F", #twee keer 'torment' in plaats van 'convent'
+    "section": "M1",
+    "strofe": 65,
+    "rhyme_letter": "A",
+    "word": "torment",
+    "vers1_id": "F_M1_65_834",
+    "vers1_pos": 2,
+    "vers2_id": "F_M1_65_843",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "F", #twee keer 'poech' in plaats van 'boech'
+    "section": "M1",
+    "strofe": 67,
+    "rhyme_letter": "A",
+    "word": "poech",
+    "vers1_id": "F_M1_67_863",
+    "vers1_pos": 5,
+    "vers2_id": "F_M1_67_865",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "F", #twee keer 'vint' in plaats van 'kint'
+    "section": "M1",
+    "strofe": 72,
+    "rhyme_letter": "A",
+    "word": "vint",
+    "vers1_id": "F_M1_72_924",
+    "vers1_pos": 1,
+    "vers2_id": "F_M1_72_927",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "F", #twee keer 'cant' in plaats van 'pant'
+    "section": "M2",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "cant",
+    "vers1_id": "F_M2_07_085",
+    "vers1_pos": 7,
+    "vers2_id": "F_M2_07_089",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "F", #twee keer 'waert' in plaats van 'vaert'
+    "section": "M2",
+    "strofe": 8,
+    "rhyme_letter": "A",
+    "word": "waert",
+    "vers1_id": "F_M2_08_092",
+    "vers1_pos": 1,
+    "vers2_id": "F_M2_08_098",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "F", #twee keer 'scat' in plaats van 'stat'
+    "section": "M2",
+    "strofe": 10,
+    "rhyme_letter": "A",
+    "word": "scat",
+    "vers1_id": "F_M2_10_119",
+    "vers1_pos": 2,
+    "vers2_id": "F_M2_10_122",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "F", #twee keer 'bant' in plaats van 'vant'
+    "section": "M2",
+    "strofe": 12,
+    "rhyme_letter": "A",
+    "word": "bant",
+    "vers1_id": "F_M2_12_145",
+    "vers1_pos": 2,
+    "vers2_id": "F_M2_12_147",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "F", #twee keer 'becoort' in plaats van 'begoort'
+    "section": "M2",
+    "strofe": 13,
+    "rhyme_letter": "A",
+    "word": "becoort",
+    "vers1_id": "F_M2_13_164",
+    "vers1_pos": 8,
+    "vers2_id": "F_M2_13_166",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "F", #twee keer 'gewes' in plaats van 'geles'
+    "section": "M2",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word": "ghewes",
+    "vers1_id": "F_M2_20_249",
+    "vers1_pos": 2,
+    "vers2_id": "F_M2_20_258",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "F", #twee keer 'leuen' in plaats van 'beuen'
+    "section": "M2",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word": "leuen",
+    "vers1_id": "F_M2_24_302",
+    "vers1_pos": 3,
+    "vers2_id": "F_M2_24_312",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "F", #twee keer 'gehinge' in plaats van 'ghinghe'
+    "section": "M3",
+    "strofe": 2,
+    "rhyme_letter": "A",
+    "word": "gehinge",
+    "vers1_id": "F_M3_02_021",
+    "vers1_pos": 8,
+    "vers2_id": "F_M3_02_023",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "F", #twee keer '(ge)doge' in plaats van 'toge'
+    "section": "M3",
+    "strofe": 3,
+    "rhyme_letter": "A",
+    "word": "doge",
+    "vers1_id": "F_M3_03_031",
+    "vers1_pos": 5,
+    "vers2_id": "F_M3_03_036",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "F", #twee keer 'mercke' in plaats van 'herke'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "mercke",
+    "vers1_id": "F_M3_07_079",
+    "vers1_pos": 1,
+    "vers2_id": "F_M3_07_082",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "F", #twee keer 'mercke' in plaats van 'herke'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "mercke",
+    "vers1_id": "F_M3_07_082",
+    "vers2_id": "F_M3_07_088",
+    "vers1_pos": 4,
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "F", #twee keer 'dwinc' in plaats van 'brinc'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "B",
+    "word": "dwinc",
+    "vers1_id": "F_M3_07_087",
+    "vers1_pos": 9,
+    "vers2_id": "F_M3_07_090",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "F", #twee keer 'eere' in plaats van 'onere'
+    "section": "M3",
+    "strofe": 21,
+    "rhyme_letter": "A",
+    "word": "eere",
+    "vers1_id": "F_M3_21_267",
+    "vers1_pos": 7,
+    "vers2_id": "F_M3_21_271",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "F", #twee keer 'meeste' in plaats van 'neeste'
+    "section": "M3",
+    "strofe": 33,
+    "rhyme_letter": "A",
+    "word": "meeste",
+    "vers1_id": "F_M3_33_417",
+    "vers1_pos": 1,
+    "vers2_id": "F_M3_33_426",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "F", #twee keer 'waren' in plaats van 'verzwaren'
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "waren",
+    "vers1_id": "F_M3_36_457",
+    "vers1_pos": 2,
+    "vers2_id": "F_M3_36_463",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "F", #twee keer 'sparen' in plaats van 'misbaren'
+    "section": "M3", 
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "sparen",
+    "vers1_id": "F_M3_36_460",
+    "vers1_pos": 5,
+    "vers2_id": "F_M3_36_466",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "F", #twee keer 'smaken' in plaats van 'maken'
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word": "smake",
+    "vers1_id": "F_M3_38_486",
+    "vers1_pos": 5,
+    "vers2_id": "F_M3_38_489",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "G", #twee keer 'spaert' in plaats van 'vertaert'
+    "section": "M1",
+    "strofe": 14,
+    "rhyme_letter": "A",
+    "word": "spaert",
+    "vers1_id": "G_M1_14_173",
+    "vers1_pos": 4,
+    "vers2_id": "G_M1_14_179",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "G", #twee keer 'waen' in plaats van 'naen'
+    "section": "M1",
+    "strofe": 21,
+    "rhyme_letter": "A",
+    "word": "waen",
+    "vers1_id": "G_M1_21_270",
+    "vers1_pos": 10,
+    "vers2_id": "G_M1_21_271",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "G", #twee keer 'gewont' in plaats van 'gesont'
+    "section": "M1",
+    "strofe": 28,
+    "rhyme_letter": "A",
+    "word": "gewont",
+    "vers1_id": "G_M1_28_353",
+    "vers1_pos": 2,
+    "vers2_id": "G_M1_28_356",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "G", #twee keer 'hout' in plaats van 'bout'
+    "section": "M1",
+    "strofe": 44,
+    "rhyme_letter": "A",
+    "word": "hout",
+    "vers1_id": "G_M1_44_561",
+    "vers1_pos": 2,
+    "vers2_id": "G_M1_44_567",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "G", #twee keer 'nijt' in plaats van 'vlijt'
+    "section": "M1",
+    "strofe": 47,
+    "rhyme_letter": "A",
+    "word": "nijt",
+    "vers1_id": "G_M1_47_599",
+    "vers1_pos": 1,
+    "vers2_id": "G_M1_47_609",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "G", #twee keer 'pant' in plaats van 'brant'
+    "section": "M1",
+    "strofe": 54,
+    "rhyme_letter": "A",
+    "word": "pant",
+    "vers1_id": "G_M1_54_691",
+    "vers1_pos": 2,
+    "vers2_id": "G_M1_54_700",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "G", #twee keer 'scelt' in plaats van 'spelt'
+    "section": "M1",
+    "strofe": 57,
+    "rhyme_letter": "A",
+    "word": "scelt",
+    "vers1_id": "G_M1_57_732",
+    "vers1_pos": 4,
+    "vers2_id": "G_M1_57_735",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "G", #twee keer 'vint' in plaats van 'kint'
+    "section": "M1",
+    "strofe": 72,
+    "rhyme_letter": "A",
+    "word": "vint",
+    "vers1_id": "G_M1_72_924",
+    "vers1_pos": 1,
+    "vers2_id": "G_M1_72_927",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "G", #twee keer 'bant' in plaats van 'pant'
+    "section": "M2",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "bant",
+    "vers1_id": "G_M2_07_083",
+    "vers1_pos": 5,
+    "vers2_id": "G_M2_07_085",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "G", #twee keer 'wart' in plaats van 'vaert'
+    "section": "M2",
+    "strofe": 8,
+    "rhyme_letter": "A",
+    "word": "wart",
+    "vers1_id": "G_M2_08_092",
+    "vers1_pos": 1,
+    "vers2_id": "G_M2_08_098",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "G", #twee keer 'scat' in plaats van 'stat'
+    "section": "M2",
+    "strofe": 10,
+    "rhyme_letter": "A",
+    "word": "scat",
+    "vers1_id": "G_M2_10_119",
+    "vers1_pos": 2,
+    "vers2_id": "G_M2_10_122",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "G", #twee keer 'broeder' in plaats van 'moeder'
+    "section": "M2",
+    "strofe": 10,
+    "rhyme_letter": "B",
+    "word": "broeder",
+    "vers1_id": "G_M2_10_120",
+    "vers1_pos": 3,
+    "vers2_id": "G_M2_10_123",
+    "vers2_pos": 6
+  },
+  {
+    "manuscript": "G", #twee keer 'al' in plaats van 'dal'
+    "section": "M2",
+    "strofe": 11,
+    "rhyme_letter": "A",
+    "word": "al",
+    "vers1_id": "G_M2_11_132",
+    "vers1_pos": 2,
+    "vers2_id": "G_M2_11_138",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "G", #twee keer 'leuen' in plaats van 'beuen'
+    "section": "M2",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word": "leuen",
+    "vers1_id": "G_M2_24_302",
+    "vers1_pos": 3,
+    "vers2_id": "G_M2_24_312",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "G", #twee keer 'waer' in plaats van 'claer'
+    "section": "M2",
+    "strofe": 26,
+    "rhyme_letter": "A",
+    "word": "waer",
+    "vers1_id": "G_M2_26_326",
+    "vers1_pos": 1,
+    "vers2_id": "G_M2_26_332",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "G", #twee keer 'doge' in plaats van 'toge'
+    "section": "M3",
+    "strofe": 3,
+    "rhyme_letter": "A",
+    "word": "doge",
+    "vers1_id": "G_M3_03_031",
+    "vers1_pos": 5,
+    "vers2_id": "G_M3_03_036",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "G", #twee keer 'stranc' in plaats van 'cranc'
+    "section": "M3",
+    "strofe": 16,
+    "rhyme_letter": "B",
+    "word": "stranc",
+    "vers1_id": "G_M3_16_204",
+    "vers1_pos": 9,
+    "vers2_id": "G_M3_16_208",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "G", #twee keer 'meest' in plaats van 'neest'
+    "section": "M3",
+    "strofe": 19,
+    "rhyme_letter": "B",
+    "word": "meest",
+    "vers1_id": "G_M3_19_243",
+    "vers1_pos": 9,
+    "vers2_id": "G_M3_19_247",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "G", #twee keer 'sale' in plaats van 'smale'
+    "section": "M3",
+    "strofe": 24,
+    "rhyme_letter": "A",
+    "word": "sale",
+    "vers1_id": "G_M3_24_301",
+    "vers1_pos": 2,
+    "vers2_id": "G_M3_24_304",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "G", #twee keer 'waren' in plaats van 'twaren' (spelling)
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "waren",
+    "vers1_id": "G_M3_36_456",
+    "vers1_pos": 1,
+    "vers2_id": "G_M3_36_457",
+    "vers2_pos": 2
+  },
+  {
+    "manuscript": "F", #twee keer '(ver)waren' in plaats van 'verzwaren'
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "waren",
+    "vers1_id": "F_M3_36_457",
+    "vers1_pos": 2,
+    "vers2_id": "F_M3_36_463",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "H", #twee keer 'verwijt' in plaats van 'vermijt'
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "A",
+    "word": "verwijt",
+    "vers1_id": "H_M1_53_680",
+    "vers1_pos": 4,
+    "vers2_id": "H_M1_53_681",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "H", #twee keer 'vint' in plaats van 'kint'
+    "section": "M1",
+    "strofe": 72,
+    "rhyme_letter": "A",
+    "word": "vint",
+    "vers1_id": "H_M1_72_924",
+    "vers1_pos": 1,
+    "vers2_id": "H_M1_72_927",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "H", #twee keer 'hout' in plaats van 'bout'
+    "section": "M1",
+    "strofe": 75,
+    "rhyme_letter": "A",
+    "word": "hout",
+    "vers1_id": "H_M1_75_963",
+    "vers1_pos": 1,
+    "vers2_id": "H_M1_75_973",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "H", #twee keer 'cant' in plaats van 'pant'
+    "section": "M2",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "cant",
+    "vers1_id": "H_M2_07_085",
+    "vers1_pos": 7,
+    "vers2_id": "H_M2_07_089",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "H", #twee keer 'gewes' in plaats van 'geles'
+    "section": "M2",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word": "ghewes",
+    "vers1_id": "H_M2_20_249",
+    "vers1_pos": 2,
+    "vers2_id": "H_M2_20_258",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "L", #twee keer 'hoeden' in plaats van 'goeden'
+    "section": "M1",
+    "strofe": 13,
+    "rhyme_letter": "B",
+    "word": "hoeden",
+    "vers1_id": "L_M1_13_159",
+    "vers1_pos": 3,
+    "vers2_id": "L_M1_13_162",
+    "vers2_pos": 6
+  },
+  {
+    "manuscript": "L", #twee keer 'poech' in plaats van 'boech'
+    "section": "M1",
+    "strofe": 67,
+    "rhyme_letter": "A",
+    "word": "poech",
+    "vers1_id": "L_M1_67_863",
+    "vers1_pos": 5,
+    "vers2_id": "L_M1_67_865",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "L", #twee keer 'twint' in plaats van 'vlint'
+    "section": "M2",
+    "strofe": 6,
+    "rhyme_letter": "A",
+    "word": "twint",
+    "vers1_id": "L_M2_06_069",
+    "vers1_pos": 4,
+    "vers2_id": "L_M2_06_072",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "L", #twee keer 'cant' in plaats van 'bant'
+    "section": "M2",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "cant",
+    "vers1_id": "L_M2_07_083",
+    "vers1_pos": 5,
+    "vers2_id": "L_M2_07_089",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "L", #twee keer 'volleest' in plaats van 'verheest'
+    "section": "M3",
+    "strofe": 31,
+    "rhyme_letter": "B",
+    "word": "volleest",
+    "vers1_id": "L_M3_31_399",
+    "vers1_pos": 9,
+    "vers2_id": "L_M3_31_402",
+    "vers2_pos": 12
+  },
+   {
+    "manuscript": "L", #twee keer 'smaeke(n)' in plaats van 'maken'
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word": "smake",
+    "vers1_id": "L_M3_38_486",
+    "vers1_pos": 5,
+    "vers2_id": "L_M3_38_489",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "O", #twee keer 'lecht' in plaats van 'echt'
+    "section": "M1",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "lecht",
+    "vers1_id": "O_M1_07_079",
+    "vers1_pos": 1,
+    "vers2_id": "O_M1_07_085",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "O", #twee keer 'verswaert' in plaats van 'vertaert'
+    "section": "M1",
+    "strofe": 14,
+    "rhyme_letter": "A",
+    "word": "verswaert",
+    "vers1_id": "O_M1_14_174",
+    "vers1_pos": 5,
+    "vers2_id": "O_M1_14_179",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "O", #twee keer 'wreet' in plaats van 'heet'
+    "section": "M1",
+    "strofe": 16,
+    "rhyme_letter": "A",
+    "word": "wreet",
+    "vers1_id": "O_M1_16_196",
+    "vers1_pos": 1,
+    "vers2_id": "O_M1_16_200",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "O", #twee keer 'woort' in plaats van 'oort'
+    "section": "M1",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word": "woort",
+    "vers1_id": "O_M1_20_249",
+    "vers1_pos": 2,
+    "vers2_id": "O_M1_20_254",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "O", #twee keer 'gat' in plaats van 'vat'
+    "section": "M1",
+    "strofe": 32,
+    "rhyme_letter": "A",
+    "word": "gat",
+    "vers1_id": "O_M1_32_407",
+    "vers1_pos": 4,
+    "vers2_id": "O_M1_32_414",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "O", #twee keer 'hout' in plaats van 'bout'
+    "section": "M1",
+    "strofe": 44,
+    "rhyme_letter": "A",
+    "word": "hout",
+    "vers1_id": "O_M1_44_561",
+    "vers1_pos": 2,
+    "vers2_id": "O_M1_44_567",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "O", #twee keer 'stelt' in plaats van 'spelt'
+    "section": "M1",
+    "strofe": 57,
+    "rhyme_letter": "A",
+    "word": "stelt",
+    "vers1_id": "O_M1_57_732",
+    "vers1_pos": 4,
+    "vers2_id": "O_M1_57_735",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "O", #twee keer 'behout' in plaats van 'bout'
+    "section": "M1",
+    "strofe": 60,
+    "rhyme_letter": "A",
+    "word": "behout",
+    "vers1_id": "O_M1_60_769",
+    "vers1_pos": 2,
+    "vers2_id": "O_M1_60_775",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "O", #twee keer 'smal' in plaats van 'getal'
+    "section": "M1",
+    "strofe": 68,
+    "rhyme_letter": "A",
+    "word": "smal",
+    "vers1_id": "O_M1_68_878",
+    "vers1_pos": 7,
+    "vers2_id": "O_M1_68_882",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "O", #twee keer 'gewin' in plaats van 'begin'
+    "section": "M2",
+    "strofe": 1,
+    "rhyme_letter": "A",
+    "word": "ghewin",
+    "vers1_id": "O_M2_01_005",
+    "vers1_pos": 5,
+    "vers2_id": "O_M2_01_010",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "O", #twee keer 'leven' in plaats van 'sneven'
+    "section": "M2",
+    "strofe": 7,
+    "rhyme_letter": "B",
+    "word": "leuen",
+    "vers1_id": "O_M2_07_081",
+    "vers1_pos": 3,
+    "vers2_id": "O_M2_07_091",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "O", #twee keer 'scat' in plaats van 'stat'
+    "section": "M2",
+    "strofe": 10,
+    "rhyme_letter": "A",
+    "word": "scat",
+    "vers1_id": "O_M2_10_119",
+    "vers1_pos": 2,
+    "vers2_id": "O_M2_10_122",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "O", #twee keer 'bant' in plaats van 'vant'
+    "section": "M2",
+    "strofe": 12,
+    "rhyme_letter": "A",
+    "word": "bant",
+    "vers1_id": "O_M2_12_145",
+    "vers1_pos": 2,
+    "vers2_id": "O_M2_12_147",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "O", #twee keer 'dan' in plaats van 'verwan'
+    "section": "M2",
+    "strofe": 15,
+    "rhyme_letter": "A",
+    "word": "dan",
+    "vers1_id": "O_M2_15_187",
+    "vers1_pos": 5,
+    "vers2_id": "O_M2_15_190",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "O", #twee keer bestiet
+    "section": "M2",
+    "strofe": 19,
+    "rhyme_letter": "A",
+    "word": "bestiet",
+    "vers1_id": "O_M2_19_241",
+    "vers1_pos": 7,
+    "vers2_id": "O_M2_19_245",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "O", #twee keer getes
+    "section": "M2",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word": "ghetes",
+    "vers1_id": "O_M2_20_255",
+    "vers1_pos": 8,
+    "vers2_id": "O_M2_20_258",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "O", #twee keer 'waer' in plaats van 'claer'
+    "section": "M2",
+    "strofe": 26,
+    "rhyme_letter": "A",
+    "word": "waer",
+    "vers1_id": "O_M2_26_326",
+    "vers1_pos": 1,
+    "vers2_id": "O_M2_26_332",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "O", #twee keer 'doge' in plaats van 'toge'
+    "section": "M3",
+    "strofe": 3,
+    "rhyme_letter": "A",
+    "word": "doeghe",
+    "vers1_id": "O_M3_03_031",
+    "vers1_pos": 5,
+    "vers2_id": "O_M3_03_036",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "O", #twee keer 'bouken' in plaats van 'doeken'
+    "section": "M3",
+    "strofe": 4,
+    "rhyme_letter": "A",
+    "word": "bouken",
+    "vers1_id": "O_M3_04_040",
+    "vers1_pos": 1,
+    "vers2_id": "O_M3_04_047",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "O", #twee keer 'merke' in plaats van 'herke'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "merke",
+    "vers1_id": "O_M3_07_079",
+    "vers1_pos": 1,
+    "vers2_id": "O_M3_07_082",
+    "vers2_pos": 4
+  },
+  {
+    "manuscript": "O", #twee keer 'merke' in plaats van 'herke'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word": "merke",
+    "vers1_id": "O_M3_07_082",
+    "vers1_pos": 4,
+    "vers2_id": "O_M3_07_088",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "O", #twee keer 'eere' in plaats van 'weere'
+    "section": "M3",
+    "strofe": 8,
+    "rhyme_letter": "A",
+    "word": "eere",
+    "vers1_id": "O_M3_08_098",
+    "vers1_pos": 7,
+    "vers2_id": "O_M3_08_102",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "O", #twee keer 'heet' (vers herhaald) in plaats van 'steet'
+    "section": "M3",
+    "strofe": 8,
+    "rhyme_letter": "B",
+    "word": "heet",
+    "vers1_id": "O_M3_08_100",
+    "vers1_pos": 9,
+    "vers2_id": "O_M3_08_103",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "O", #twee keer 'ghehoort' in plaats van 'verboort'
+    "section": "M3",
+    "strofe": 18,
+    "rhyme_letter": "B",
+    "word": "ghehoort",
+    "vers1_id": "O_M3_18_224",
+    "vers1_pos": 3,
+    "vers2_id": "O_M3_18_234",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "O", #twee keer 'eere' in plaats van 'oneere'
+    "section": "M3",
+    "strofe": 21,
+    "rhyme_letter": "A",
+    "word": "eere",
+    "vers1_id": "O_M3_21_267",
+    "vers1_pos": 7,
+    "vers2_id": "O_M3_21_271",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "O", #twee keer 'zale' in plaats van 'smale'
+    "section": "M3",
+    "strofe": 24,
+    "rhyme_letter": "A",
+    "word": "zale",
+    "vers1_id": "O_M3_24_301",
+    "vers1_pos": 2,
+    "vers2_id": "O_M3_24_304",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "O", #twee keer 'kint' in plaats van 'bint'
+    "section": "M3",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word": "kint",
+    "vers1_id": "O_M3_24_302",
+    "vers1_pos": 3,
+    "vers2_id": "O_M3_24_308",
+    "vers2_pos": 9
+  },
+  {
+    "manuscript": "O", #twee keer 'meeste' in plaats van 'neeste'
+    "section": "M3",
+    "strofe": 33,
+    "rhyme_letter": "A",
+    "word": "meeste",
+    "vers1_id": "O_M3_33_417",
+    "vers1_pos": 1,
+    "vers2_id": "O_M3_33_426",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "O", #twee keer 'sparen' in plaats van 'misbaren'
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "sparen",
+    "vers1_id": "O_M3_36_460",
+    "vers1_pos": 5,
+    "vers2_id": "O_M3_36_466",
+    "vers2_pos": 11
+  },
+   {
+    "manuscript": "O", #twee keer 'sma(e)ke' in plaats van 'maken'
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word": "smake",
+    "vers1_id": "O_M3_38_486",
+    "vers1_pos": 5,
+    "vers2_id": "O_M3_38_489",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "W", #twee keer 'doge' in plaats van 'toge'
+    "section": "M3",
+    "strofe": 3,
+    "rhyme_letter": "A",
+    "word": "doge",
+    "vers1_id": "W_M3_03_031",
+    "vers1_pos": 5,
+    "vers2_id": "W_M3_03_036",
+    "vers2_pos": 10
+  },
+  {
+    "manuscript": "W", #twee keer 'stranc' in plaats van 'cranc'
+    "section": "M3",
+    "strofe": 16,
+    "rhyme_letter": "B",
+    "word": "stranc",
+    "vers1_id": "W_M3_16_204",
+    "vers1_pos": 9,
+    "vers2_id": "W_M3_16_208",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "W", #twee keer 'meest' in plaats van 'neest'
+    "section": "M3",
+    "strofe": 19,
+    "rhyme_letter": "B",
+    "word": "meest",
+    "vers1_id": "W_M3_19_243",
+    "vers1_pos": 9,
+    "vers2_id": "W_M3_19_247",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "W", #twee keer 'sale' in plaats van 'smale'
+    "section": "M3",
+    "strofe": 24,
+    "rhyme_letter": "A",
+    "word": "sale",
+    "vers1_id": "W_M3_24_301",
+    "vers1_pos": 2,
+    "vers2_id": "W_M3_24_304",
+    "vers2_pos": 5
+  },
+  {
+    "manuscript": "W", #twee keer 'waren' in plaats van 'twaren' (spelling)
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "waren",
+    "vers1_id": "W_M3_36_456",
+    "vers1_pos": 1,
+    "vers2_id": "W_M3_36_457",
+    "vers2_pos": 2
+  },
+  {
+    "manuscript": "Y", #twee keer 'hoeden' in plaats van 'goeden'
+    "section": "M1",
+    "strofe": 13,
+    "rhyme_letter": "B",
+    "word": "hoeden",
+    "vers1_id": "Y_M1_13_159",
+    "vers1_pos": 3,
+    "vers2_id": "Y_M1_13_162",
+    "vers2_pos": 6
+  },
+  {
+    "manuscript": "Y", #twee keer 'vulleest' in plaats van 'verheest'
+    "section": "M3",
+    "strofe": 31,
+    "rhyme_letter": "B",
+    "word": "vulleest",
+    "vers1_id": "Y_M3_31_399",
+    "vers1_pos": 9,
+    "vers2_id": "Y_M3_31_402",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "Y", #twee keer 'smaken' in plaats van 'maken'
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word": "smake",
+    "vers1_id": "Y_M3_38_486",
+    "vers1_pos": 5,
+    "vers2_id": "Y_M3_38_489",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "Z", #twee keer 'verdraget' in plaats van 'wagen'
+    "section": "M1",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word": "verdraget",
+    "vers1_id": "Z_M1_36_457",
+    "vers1_pos": 2,
+    "vers2_id": "Z_M1_36_463",
+    "vers2_pos": 8
+  },
+  {
+    "manuscript": "Z", #twee keer 'verdragen' in plaats van 'vragen'
+    "section": "M1",
+    "strofe": 36,
+    "rhyme_letter": "B",
+    "word": "verdragen",
+    "vers1_id": "Z_M1_36_458",
+    "vers1_pos": 3,
+    "vers2_id": "Z_M1_36_464",
+    "vers2_pos": 9
+  },
+  {
+    "manuscript": "Z", #twee keer 'spellen' in plaats van 'tellen'
+    "section": "M1",
+    "strofe": 39,
+    "rhyme_letter": "B",
+    "word": "spelle",
+    "vers1_id": "Z_M1_39_500",
+    "vers1_pos": 6,
+    "vers2_id": "Z_M1_39_506",
+    "vers2_pos": 12
+  },
+   {
+    "manuscript": "Z", #twee keer 'oghen' in plaats van 'hoghen' (spelling)
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "B",
+    "word": "oghen",
+    "vers1_id": "Z_M1_53_679",
+    "vers1_pos": 3,
+    "vers2_id": "Z_M1_53_689",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "Z", #twee keer 'bedroghen' in plaats van 'doorvloghen'
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "B",
+    "word": "bedroghen",
+    "vers1_id": "Z_M1_53_682",
+    "vers1_pos": 6,
+    "vers2_id": "Z_M1_53_688",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "Z", #twee keer 'pant' in plaats van 'brant'
+    "section": "M1",
+    "strofe": 54,
+    "rhyme_letter": "A",
+    "word": "pant",
+    "vers1_id": "Z_M1_54_691",
+    "vers1_pos": 2,
+    "vers2_id": "Z_M1_54_700",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "Z", #twee keer 'gereet' in plaats van 'wreet'
+    "section": "M2",
+    "strofe": 24,
+    "rhyme_letter": "A",
+    "word": "gereet",
+    "vers1_id": "Z_M2_24_303",
+    "vers1_pos": 4,
+    "vers2_id": "Z_M2_24_310",
+    "vers2_pos": 11
+  },
+  {
+    "manuscript": "Z", #twee keer 'leuen' in plaats van 'beuen'
+    "section": "M2",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word": "leuen",
+    "vers1_id": "Z_M2_24_302",
+    "vers1_pos": 3,
+    "vers2_id": "Z_M2_24_312",
+    "vers2_pos": 13
+  },
+  {
+    "manuscript": "Z", #twee keer 'waer' in plaats van 'claer'
+    "section": "M2",
+    "strofe": 26,
+    "rhyme_letter": "A",
+    "word": "waer",
+    "vers1_id": "Z_M2_26_326",
+    "vers1_pos": 1,
+    "vers2_id": "Z_M2_26_332",
+    "vers2_pos": 7
+  },
+  {
+    "manuscript": "Z", #twee keer 'dwinc' in plaats van 'brinc'
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "B",
+    "word": "dwinc",
+    "vers1_id": "Z_M3_07_087",
+    "vers1_pos": 9,
+    "vers2_id": "Z_M3_07_090",
+    "vers2_pos": 12
+  },
+  {
+    "manuscript": "Z", #twee keer 'dog(h)e' in plaats van 'toge'
+    "section": "M3",
+    "strofe": 3,
+    "rhyme_letter": "A",
+    "word": "doge",
+    "vers1_id": "Z_M3_03_031",
+    "vers1_pos": 5,
+    "vers2_id": "Z_M3_03_036",
+    "vers2_pos": 10
+  },
+   {
+    "manuscript": "A", #staen in plaats van ontgaen
+    "section": "M1",
+    "strofe": 4,
+    "rhyme_letter": "A",
+    "word1": "verstaen",
+    "word2": "staen",
+    "rhyming_part1": "staen",
+    "rhyming_part2": "staen",
+    "normalized": "stan",
+    "vers1_id": "A_M1_04_041",
+    "vers2_id": "A_M1_04_046",
+    "vers1_pos": 2,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+{
+    "manuscript": "G", #gevelt in plaats van helt
+    "section": "M1",
+    "strofe": 41,
+    "rhyme_letter": "A",
+    "word1": "tfelt",
+    "word2": "gevelt",
+    "rhyming_part1": "tfelt",
+    "rhyming_part2": "velt",
+    "normalized": "felt",
+    "vers1_id": "G_M1_41_524",
+    "vers2_id": "G_M1_41_525",
+    "vers1_pos": 4,
+    "vers2_pos": 5,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "A",  #gevelt in plaats van helt
+    "section": "M1",
+    "strofe": 41,
+    "rhyme_letter": "A",
+    "word1": "tvelt",
+    "word2": "gheuelt",
+    "rhyming_part1": "tvelt",
+    "rhyming_part2": "uelt",
+    "normalized": "felt",
+    "vers1_id": "A_M1_41_524",
+    "vers2_id": "A_M1_41_525",
+    "vers1_pos": 4,
+    "vers2_pos": 5,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "A", #hout in plaats van out (spelling)
+    "section": "M1",
+    "strofe": 60,
+    "rhyme_letter": "A",
+    "word1": "behout",
+    "word2": "hout",
+    "rhyming_part1": "hout",
+    "rhyming_part2": "hout",
+    "normalized": "hot",
+    "vers1_id": "A_M1_60_769",
+    "vers2_id": "A_M1_60_771",
+    "vers1_pos": 2,
+    "vers2_pos": 4,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "A", #besteruen in plaats van bederuen
+    "section": "M1",
+    "strofe": 73,
+    "rhyme_letter": "B",
+    "word1": "besteruen",
+    "word2": "steruen",
+    "rhyming_part1": "steruen",
+    "rhyming_part2": "steruen",
+    "normalized": "sterun",
+    "vers1_id": "A_M1_73_939",
+    "vers2_id": "A_M1_73_949",
+    "vers1_pos": 3,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "A", #hout in plaats van out (spelling)
+    "section": "M1",
+    "strofe": 75,
+    "rhyme_letter": "A",
+    "word1": "hout",
+    "word2": "behout",
+    "rhyming_part1": "hout",
+    "rhyming_part2": "hout",
+    "normalized": "hot",
+    "vers1_id": "A_M1_75_967",
+    "vers2_id": "A_M1_75_969",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "A", #beheet ipv heet 
+    "section": "M2",
+    "strofe": 24,
+    "rhyme_letter": "A",
+    "word1": "heet",
+    "word2": "beheet",
+    "rhyming_part1": "heet",
+    "rhyming_part2": "heet",
+    "normalized": "het",
+    "vers1_id": "A_M2_24_304",
+    "vers2_id": "A_M2_24_306",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "A", #lettergreep draghen ipv dagen
+    "section": "M3",
+    "strofe": 9,
+    "rhyme_letter": "A",
+    "word1": "ghedraghen",
+    "word2": "draghen",
+    "rhyming_part1": "draghen",
+    "rhyming_part2": "draghen",
+    "normalized": "drage",
+    "vers1_id": "A_M3_09_105",
+    "vers2_id": "A_M3_09_111",
+    "vers1_pos": 1,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "A", #verladen ipv verraden
+    "section": "M3",
+    "strofe": 23,
+    "rhyme_letter": "A",
+    "word1": "verladen",
+    "word2": "gheladen",
+    "rhyming_part1": "laden",
+    "rhyming_part2": "laden",
+    "normalized": "lade",
+    "vers1_id": "A_M3_23_287",
+    "vers2_id": "A_M3_23_293",
+    "vers1_pos": 1,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #doorstaen in plaats van dwaen
+    "section": "M1",
+    "strofe": 1,
+    "rhyme_letter": "A",
+    "word1": "staen",
+    "word2": "doerstaen",
+    "rhyming_part1": "staen",
+    "rhyming_part2": "staen",
+    "normalized": "stan",
+    "vers1_id": "B_M1_01_002",
+    "vers2_id": "B_M1_01_008",
+    "vers1_pos": 2,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #lettergreeprijm ghedestruweert 
+    "section": "M1",
+    "strofe": 15,
+    "rhyme_letter": "A",
+    "word1": "gheeert",
+    "word2": "ghedestrueert",
+    "rhyming_part1": "eert",
+    "rhyming_part2": "eert",
+    "normalized": "ert",
+    "vers1_id": "B_M1_15_186",
+    "vers2_id": "B_M1_15_192",
+    "vers1_pos": 4,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #lettergreeprijm 
+    "section": "M1",
+    "strofe": 29,
+    "rhyme_letter": "B",
+    "word1": "ere",
+    "word2": "eere",
+    "rhyming_part1": "ere",
+    "rhyming_part2": "eere",
+    "normalized": "ere",
+    "vers1_id": "B_M1_29_367",
+    "vers2_id": "B_M1_29_370",
+    "vers1_pos": 3,
+    "vers2_pos": 6,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #lettergreeprijm
+    "section": "M1",
+    "strofe": 29,
+    "rhyme_letter": "B",
+    "word1": "eere",
+    "word2": "eerre",
+    "rhyming_part1": "eere",
+    "rhyming_part2": "eerre",
+    "normalized": "ere",
+    "vers1_id": "B_M1_29_370",
+    "vers2_id": "B_M1_29_377",
+    "vers1_pos": 6,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #lettergreeprijm
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "A",
+    "word1": "verwijt",
+    "word2": "wijt",
+    "rhyming_part1": "wijt",
+    "rhyming_part2": "wijt",
+    "normalized": "wit",
+    "vers1_id": "B_M1_53_678",
+    "vers2_id": "B_M1_53_683",
+    "vers1_pos": 2,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #bemoede in plaats van bevroede 
+    "section": "M1",
+    "strofe": 60,
+    "rhyme_letter": "B",
+    "word1": "armoede",
+    "word2": "bemoede",
+    "rhyming_part1": "moede",
+    "rhyming_part2": "moede",
+    "normalized": "mode",
+    "vers1_id": "B_M1_60_770",
+    "vers2_id": "B_M1_60_779",
+    "vers1_pos": 3,
+    "vers2_pos": 12,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #binden in plaats van vinden
+    "section": "M2",
+    "strofe": 12,
+    "rhyme_letter": "B",
+    "word1": "ontbinden",
+    "word2": "binden",
+    "rhyming_part1": "binden",
+    "rhyming_part2": "binden",
+    "normalized": "binde",
+    "vers1_id": "B_M2_12_146",
+    "vers2_id": "B_M2_12_155",
+    "vers1_pos": 3,
+    "vers2_pos": 12,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #stade in plaats van sade
+    "section": "M2",
+    "strofe": 16,
+    "rhyme_letter": "B",
+    "word1": "ghestade",
+    "word2": "stade",
+    "rhyming_part1": "stade",
+    "rhyming_part2": "stade",
+    "normalized": "stade",
+    "vers1_id": "B_M2_16_204",
+    "vers2_id": "B_M2_16_207",
+    "vers1_pos": 9,
+    "vers2_pos": 12,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #sat in plaats van scat
+    "section": "M2",
+    "strofe": 23,
+    "rhyme_letter": "A",
+    "word1": "godsat",
+    "word2": "zat",
+    "rhyming_part1": "sat",
+    "rhyming_part2": "zat",
+    "normalized": "sat",
+    "vers1_id": "B_M2_23_290",
+    "vers2_id": "B_M2_23_294",
+    "vers1_pos": 4,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #sat in plaats van scat
+    "section": "M2", 
+    "strofe": 23,
+    "rhyme_letter": "A",
+    "word1": "godsat",
+    "word2": "zat",
+    "rhyming_part1": "sat",
+    "rhyming_part2": "zat",
+    "normalized": "sat",
+    "vers1_id": "B_M2_23_290",
+    "vers2_id": "B_M2_23_297",
+    "vers1_pos": 4,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #besouken in plaats van rouken
+    "section": "M3",
+    "strofe": 4,
+    "rhyme_letter": "A",
+    "word1": "soeken",
+    "word2": "besouken",
+    "rhyming_part1": "soeken",
+    "rhyming_part2": "souken",
+    "normalized": "soke",
+    "vers1_id": "B_M3_04_041",
+    "vers2_id": "B_M3_04_043",
+    "vers1_pos": 2,
+    "vers2_pos": 4,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #mercke in plaats van herke
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word1": "gemercke",
+    "word2": "mercke",
+    "rhyming_part1": "mercke",
+    "rhyming_part2": "mercke",
+    "normalized": "merke",
+    "vers1_id": "B_M3_07_079",
+    "vers2_id": "B_M3_07_082",
+    "vers1_pos": 1,
+    "vers2_pos": 4,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #weersteet in plaats van verscheet
+    "section": "M3",
+    "strofe": 8,
+    "rhyme_letter": "B",
+    "word1": "weersteet",
+    "word2": "steet",
+    "rhyming_part1": "steet",
+    "rhyming_part2": "steet",
+    "normalized": "stet",
+    "vers1_id": "B_M3_08_097",
+    "vers2_id": "B_M3_08_103",
+    "vers1_pos": 6,
+    "vers2_pos": 12,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #gheseit in plaats van ghereit
+    "section": "M3",
+    "strofe": 13,
+    "rhyme_letter": "B",
+    "word1": "ontseit",
+    "word2": "gheseit",
+    "rhyming_part1": "seit",
+    "rhyming_part2": "seit",
+    "normalized": "set",
+    "vers1_id": "B_M3_13_162",
+    "vers2_id": "B_M3_13_169",
+    "vers1_pos": 6,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "B", #gelike in plaats van slike
+    "section": "M3",
+    "strofe": 19,
+    "rhyme_letter": "A",
+    "word1": "ewelike",
+    "word2": "gelike",
+    "rhyming_part1": "like",
+    "rhyming_part2": "like",
+    "normalized": "like",
+    "vers1_id": "B_M3_19_242",
+    "vers2_id": "B_M3_19_244",
+    "vers1_pos": 8,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "Br",  #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "onttrect",
+    "word2": "getrect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "Br_M1_38_486",
+    "vers2_id": "Br_M1_38_488",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "C", #lettergreeprijm
+    "section": "M1",
+    "strofe": 14,
+    "rhyme_letter": "A",
+    "word1": "vaert",
+    "word2": "veruaert",
+    "rhyming_part1": "vaert",
+    "rhyming_part2": "uaert",
+    "normalized": "fart",
+    "vers1_id": "C_M1_14_171",
+    "vers2_id": "C_M1_14_179",
+    "vers1_pos": 2,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "C", #lettergreeprijm
+    "section": "M1",
+    "strofe": 15,
+    "rhyme_letter": "A",
+    "word1": "gheeert",
+    "word2": "ghedestrueert",
+    "rhyming_part1": "eert",
+    "rhyming_part2": "eert",
+    "normalized": "ert",
+    "vers1_id": "C_M1_15_186",
+    "vers2_id": "C_M1_15_192",
+    "vers1_pos": 4,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "C", #lettergreeprijm
+    "section": "M1",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word1": "vaeght",
+    "word2": "gheuaeght",
+    "rhyming_part1": "vaeght",
+    "rhyming_part2": "uaeght",
+    "normalized": "fagt",
+    "vers1_id": "C_M1_36_463",
+    "vers2_id": "C_M1_36_466",
+    "vers1_pos": 8,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "C", #vaen in plaats van vlaen
+    "section": "M1",
+    "strofe": 50,
+    "rhyme_letter": "A",
+    "word1": "ontfaen",
+    "word2": "vaen",
+    "rhyming_part1": "faen",
+    "rhyming_part2": "vaen",
+    "normalized": "fan",
+    "vers1_id": "C_M1_50_642",
+    "vers2_id": "C_M1_50_648",
+    "vers1_pos": 5,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "C", #lettergreep dragen ipv dagen
+    "section": "M3",
+    "strofe": 9,
+    "rhyme_letter": "A",
+    "word1": "onghedraghen",
+    "word2": "draghen",
+    "rhyming_part1": "draghen",
+    "rhyming_part2": "draghen",
+    "normalized": "drage",
+    "vers1_id": "C_M3_09_105",
+    "vers2_id": "C_M3_09_111",
+    "vers1_pos": 1,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "C", #lettergreeprijm
+    "section": "M3",
+    "strofe": 12,
+    "rhyme_letter": "B",
+    "word1": "zie",
+    "word2": "besie",
+    "rhyming_part1": "zie",
+    "rhyming_part2": "sie",
+    "normalized": "si",
+    "vers1_id": "C_M3_12_149",
+    "vers2_id": "C_M3_12_156",
+    "vers1_pos": 6,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "C", #blent in plaats van ontwent
+    "section": "M3",
+    "strofe": 22,
+    "rhyme_letter": "B",
+    "word1": "verblent",
+    "word2": "blent",
+    "rhyming_part1": "blent",
+    "rhyming_part2": "blent",
+    "normalized": "blent",
+    "vers1_id": "C_M3_22_282",
+    "vers2_id": "C_M3_22_286",
+    "vers1_pos": 9,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #lettergreeprijm
+    "section": "M1",
+    "strofe": 13,
+    "rhyme_letter": "B",
+    "word1": "behoeden",
+    "word2": "hoeden",
+    "rhyming_part1": "hoeden",
+    "rhyming_part2": "hoeden",
+    "normalized": "hode",
+    "vers1_id": "D_M1_13_159",
+    "vers2_id": "D_M1_13_162",
+    "vers1_pos": 3,
+    "vers2_pos": 6,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #lettergreeprijm
+    "section": "M1",
+    "strofe": 14,
+    "rhyme_letter": "A",
+    "word1": "vaert",
+    "word2": "mesuaert",
+    "rhyming_part1": "vaert",
+    "rhyming_part2": "uaert",
+    "normalized": "fart",
+    "vers1_id": "D_M1_14_171",
+    "vers2_id": "D_M1_14_177",
+    "vers1_pos": 2,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #lettergreeprijm
+    "section": "M1",
+    "strofe": 15,
+    "rhyme_letter": "A",
+    "word1": "gheeert",
+    "word2": "ghedestrueert",
+    "rhyming_part1": "eert",
+    "rhyming_part2": "eert",
+    "normalized": "ert",
+    "vers1_id": "D_M1_15_186",
+    "vers2_id": "D_M1_15_192",
+    "vers1_pos": 4,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #bestaen in plaats van bevaen
+    "section": "M1",
+    "strofe": 18,
+    "rhyme_letter": "B",
+    "word1": "verstaen",
+    "word2": "bestaen",
+    "rhyming_part1": "staen",
+    "rhyming_part2": "staen",
+    "normalized": "stan",
+    "vers1_id": "D_M1_18_224",
+    "vers2_id": "D_M1_18_230",
+    "vers1_pos": 3,
+    "vers2_pos": 9,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #ghelijt in plaats van glijt
+    "section": "M1",
+    "strofe": 33,
+    "rhyme_letter": "A",
+    "word1": "iolijt",
+    "word2": "ghelijt",
+    "rhyming_part1": "lijt",
+    "rhyming_part2": "lijt",
+    "normalized": "lit",
+    "vers1_id": "D_M1_33_420",
+    "vers2_id": "D_M1_33_426",
+    "vers1_pos": 4,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "ghetrect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "D_M1_38_486",
+    "vers2_id": "D_M1_38_488",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "trect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "D_M1_38_486",
+    "vers2_id": "D_M1_38_492",
+    "vers1_pos": 5,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #gan in plaats van an
+    "section": "M1",
+    "strofe": 43,
+    "rhyme_letter": "A",
+    "word1": "gan",
+    "word2": "began",
+    "rhyming_part1": "gan",
+    "rhyming_part2": "gan",
+    "normalized": "gan",
+    "vers1_id": "D_M1_43_551",
+    "vers2_id": "D_M1_43_556",
+    "vers1_pos": 5,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #lettergreeprijm
+    "section": "M1",
+    "strofe": 70,
+    "rhyme_letter": "A",
+    "word1": "ontdien",
+    "word2": "dien",
+    "rhyming_part1": "dien",
+    "rhyming_part2": "dien",
+    "normalized": "din",
+    "vers1_id": "D_M1_70_899",
+    "vers2_id": "D_M1_70_901",
+    "vers1_pos": 2,
+    "vers2_pos": 4,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #lettergreeprijm
+    "section": "M2",
+    "strofe": 8,
+    "rhyme_letter": "A",
+    "word1": "gaert",
+    "word2": "begaert",
+    "rhyming_part1": "gaert",
+    "rhyming_part2": "gaert",
+    "normalized": "gart",
+    "vers1_id": "D_M2_08_096",
+    "vers2_id": "D_M2_08_099",
+    "vers1_pos": 5,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #lettergreep
+    "section": "M3",
+    "strofe": 10,
+    "rhyme_letter": "A",
+    "word1": "cleynen",
+    "word2": "verclenen",
+    "rhyming_part1": "cleynen",
+    "rhyming_part2": "clenen",
+    "normalized": "klene",
+    "vers1_id": "D_M3_10_122",
+    "vers2_id": "D_M3_10_125",
+    "vers1_pos": 5,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "D", #lettergreep
+    "section": "M3",
+    "strofe": 22,
+    "rhyme_letter": "A",
+    "word1": "verdomen",
+    "word2": "doomen",
+    "rhyming_part1": "domen",
+    "rhyming_part2": "doomen",
+    "normalized": "dome",
+    "vers1_id": "D_M3_22_278",
+    "vers2_id": "D_M3_22_283",
+    "vers1_pos": 5,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "E", #lettergreep
+    "section": "M1",
+    "strofe": 36,
+    "rhyme_letter": "B",
+    "word1": "verdraghen",
+    "word2": "draghen",
+    "rhyming_part1": "draghen",
+    "rhyming_part2": "draghen",
+    "normalized": "drage",
+    "vers1_id": "E_M1_36_464",
+    "vers2_id": "E_M1_36_468",
+    "vers1_pos": 9,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "E",  #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "getrect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "E_M1_38_486",
+    "vers2_id": "E_M1_38_488",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "E",  #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "trect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "E_M1_38_486",
+    "vers2_id": "E_M1_38_492",
+    "vers1_pos": 5,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #lettergreeprijm
+    "section": "M1",
+    "strofe": 14,
+    "rhyme_letter": "A",
+    "word1": "vaert",
+    "word2": "mesuaert",
+    "rhyming_part1": "vaert",
+    "rhyming_part2": "uaert",
+    "normalized": "fart",
+    "vers1_id": "F_M1_14_171",
+    "vers2_id": "F_M1_14_177",
+    "vers1_pos": 2,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #lettergreeprijm
+    "section": "M1",
+    "strofe": 15,
+    "rhyme_letter": "A",
+    "word1": "gheeert",
+    "word2": "ghedestrueert",
+    "rhyming_part1": "eert",
+    "rhyming_part2": "eert",
+    "normalized": "ert",
+    "vers1_id": "F_M1_15_186",
+    "vers2_id": "F_M1_15_192",
+    "vers1_pos": 4,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #bestane in plaats van bevane
+    "section": "M1",
+    "strofe": 18,
+    "rhyme_letter": "B",
+    "word1": "verstane",
+    "word2": "bestane",
+    "rhyming_part1": "stane",
+    "rhyming_part2": "stane",
+    "normalized": "stane",
+    "vers1_id": "F_M1_18_224",
+    "vers2_id": "F_M1_18_230",
+    "vers1_pos": 3,
+    "vers2_pos": 9,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #lettergreep
+    "section": "M1",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word1": "vergheten",
+    "word2": "gheten",
+    "rhyming_part1": "gheten",
+    "rhyming_part2": "gheten",
+    "normalized": "gete",
+    "vers1_id": "F_M1_24_302",
+    "vers2_id": "F_M1_24_312",
+    "vers1_pos": 3,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #lettergreep
+    "section": "M1",
+    "strofe": 29,
+    "rhyme_letter": "A",
+    "word1": "doet",
+    "word2": "ghedoet",
+    "rhyming_part1": "doet",
+    "rhyming_part2": "doet",
+    "normalized": "dot",
+    "vers1_id": "F_M1_29_368",
+    "vers2_id": "F_M1_29_371",
+    "vers1_pos": 4,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #ghelijdt in plaats van glijt
+    "section": "M1",
+    "strofe": 33,
+    "rhyme_letter": "A",
+    "word1": "delijt",
+    "word2": "ghelijdt",
+    "rhyming_part1": "lijt",
+    "rhyming_part2": "lijdt",
+    "normalized": "lit",
+    "vers1_id": "F_M1_33_420",
+    "vers2_id": "F_M1_33_426",
+    "vers1_pos": 4,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F",  #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "ghetrect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "F_M1_38_486",
+    "vers2_id": "F_M1_38_488",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F",  #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "trect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "F_M1_38_486",
+    "vers2_id": "F_M1_38_492",
+    "vers1_pos": 5,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #vermoede in plaats van bevroede 
+    "section": "M1",
+    "strofe": 60,
+    "rhyme_letter": "B",
+    "word1": "armoede",
+    "word2": "vermoede",
+    "rhyming_part1": "moede",
+    "rhyming_part2": "moede",
+    "normalized": "mode",
+    "vers1_id": "F_M1_60_770",
+    "vers2_id": "F_M1_60_779",
+    "vers1_pos": 3,
+    "vers2_pos": 12,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #lettergreep
+    "section": "M2",
+    "strofe": 17,
+    "rhyme_letter": "A",
+    "word1": "macht",
+    "word2": "vermacht",
+    "rhyming_part1": "macht",
+    "rhyming_part2": "macht",
+    "normalized": "magt",
+    "vers1_id": "F_M2_17_212",
+    "vers2_id": "F_M2_17_218",
+    "vers1_pos": 4,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #lettergreep
+    "section": "M3",
+    "strofe": 25,
+    "rhyme_letter": "A",
+    "word1": "emmermeere",
+    "word2": "meere",
+    "rhyming_part1": "meere",
+    "rhyming_part2": "meere",
+    "normalized": "mere",
+    "vers1_id": "F_M3_25_314",
+    "vers2_id": "F_M3_25_317",
+    "vers1_pos": 2,
+    "vers2_pos": 5,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #sone in plaats van vrome
+    "section": "M3",
+    "strofe": 31,
+    "rhyme_letter": "A",
+    "word1": "persone",
+    "word2": "sone",
+    "rhyming_part1": "sone",
+    "rhyming_part2": "sone",
+    "normalized": "sone",
+    "vers1_id": "F_M3_31_392",
+    "vers2_id": "F_M3_31_400",
+    "vers1_pos": 2,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F",  #sone in plaats van vrome
+    "section": "M3",
+    "strofe": 31,
+    "rhyme_letter": "A",
+    "word1": "zone",
+    "word2": "sone",
+    "rhyming_part1": "zone",
+    "rhyming_part2": "sone",
+    "normalized": "sone",
+    "vers1_id": "F_M3_31_397",
+    "vers2_id": "F_M3_31_400",
+    "vers1_pos": 7,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "F", #uniek
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word1": "twaren",
+    "word2": "waren",
+    "rhyming_part1": "twaren",
+    "rhyming_part2": "waren",
+    "normalized": "ware",
+    "vers1_id": "F_M3_36_456",
+    "vers2_id": "F_M3_36_463",
+    "vers1_pos": 1,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreeprijm
+    "section": "M1",
+    "strofe": 14,
+    "rhyme_letter": "A",
+    "word1": "vaert",
+    "word2": "mesvaert",
+    "rhyming_part1": "vaert",
+    "rhyming_part2": "vaert",
+    "normalized": "fart",
+    "vers1_id": "G_M1_14_171",
+    "vers2_id": "G_M1_14_177",
+    "vers1_pos": 2,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #bestane in plaats van bevane
+    "section": "M1",
+    "strofe": 18,
+    "rhyme_letter": "B",
+    "word1": "verstane",
+    "word2": "bestane",
+    "rhyming_part1": "stane",
+    "rhyming_part2": "stane",
+    "normalized": "stane",
+    "vers1_id": "G_M1_18_224",
+    "vers2_id": "G_M1_18_230",
+    "vers1_pos": 3,
+    "vers2_pos": 9,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreep
+    "section": "M1",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word1": "vergeten",
+    "word2": "geten",
+    "rhyming_part1": "geten",
+    "rhyming_part2": "geten",
+    "normalized": "gete",
+    "vers1_id": "G_M1_24_302",
+    "vers2_id": "G_M1_24_312",
+    "vers1_pos": 3,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #gelijt in plaats van glijt
+    "section": "M1",
+    "strofe": 33,
+    "rhyme_letter": "A",
+    "word1": "delijt",
+    "word2": "gelijt",
+    "rhyming_part1": "lijt",
+    "rhyming_part2": "lijt",
+    "normalized": "lit",
+    "vers1_id": "G_M1_33_420",
+    "vers2_id": "G_M1_33_426",
+    "vers1_pos": 4,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreep
+    "section": "M1",
+    "strofe": 70,
+    "rhyme_letter": "A",
+    "word1": "opsien",
+    "word2": "sien",
+    "rhyming_part1": "sien",
+    "rhyming_part2": "sien",
+    "normalized": "sin",
+    "vers1_id": "G_M1_70_898",
+    "vers2_id": "G_M1_70_905",
+    "vers1_pos": 1,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreep
+    "section": "M2",
+    "strofe": 2,
+    "rhyme_letter": "B",
+    "word1": "verleeden",
+    "word2": "beleeden",
+    "rhyming_part1": "leeden",
+    "rhyming_part2": "leeden",
+    "normalized": "lede",
+    "vers1_id": "G_M2_02_022",
+    "vers2_id": "G_M2_02_026",
+    "vers1_pos": 9,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreeprijm
+    "section": "M2",
+    "strofe": 8,
+    "rhyme_letter": "A",
+    "word1": "gart",
+    "word2": "begart",
+    "rhyming_part1": "gart",
+    "rhyming_part2": "gart",
+    "normalized": "gart",
+    "vers1_id": "G_M2_08_096",
+    "vers2_id": "G_M2_08_099",
+    "vers1_pos": 5,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreep
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word1": "gewerke",
+    "word2": "werke",
+    "rhyming_part1": "werke",
+    "rhyming_part2": "werke",
+    "normalized": "werke",
+    "vers1_id": "G_M3_07_080",
+    "vers2_id": "G_M3_07_088",
+    "vers1_pos": 2,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreep
+    "section": "M3",
+    "strofe": 21,
+    "rhyme_letter": "A",
+    "word1": "emmermeerre",
+    "word2": "mere",
+    "rhyming_part1": "meerre",
+    "rhyming_part2": "mere",
+    "normalized": "mere",
+    "vers1_id": "G_M3_21_270",
+    "vers2_id": "G_M3_21_271",
+    "vers1_pos": 10,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreep
+    "section": "M3",
+    "strofe": 25,
+    "rhyme_letter": "A",
+    "word1": "emmermere",
+    "word2": "mere",
+    "rhyming_part1": "mere",
+    "rhyming_part2": "mere",
+    "normalized": "mere",
+    "vers1_id": "G_M3_25_314",
+    "vers2_id": "G_M3_25_322",
+    "vers1_pos": 2,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #uniek
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word1": "waren",
+    "word2": "uerwaren",
+    "rhyming_part1": "waren",
+    "rhyming_part2": "waren",
+    "normalized": "ware",
+    "vers1_id": "G_M3_36_456",
+    "vers2_id": "G_M3_36_463",
+    "vers1_pos": 1,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreep
+    "section": "M3",
+    "strofe": 36,
+    "rhyme_letter": "A",
+    "word1": "waren",
+    "word2": "uerwaren",
+    "rhyming_part1": "waren",
+    "rhyming_part2": "waren",
+    "normalized": "ware",
+    "vers1_id": "G_M3_36_457",
+    "vers2_id": "G_M3_36_463",
+    "vers1_pos": 2,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "G", #lettergreep
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "rake",
+    "word2": "gerake",
+    "rhyming_part1": "rake",
+    "rhyming_part2": "rake",
+    "normalized": "rake",
+    "vers1_id": "G_M3_38_486",
+    "vers2_id": "G_M3_38_488",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "H", #hout in plaats van bout
+    "section": "M1",
+    "strofe": 75,
+    "rhyme_letter": "A",
+    "word1": "behout",
+    "word2": "hout",
+    "rhyming_part1": "hout",
+    "rhyming_part2": "hout",
+    "normalized": "hot",
+    "vers1_id": "H_M1_75_969",
+    "vers2_id": "H_M1_75_973",
+    "vers1_pos": 7,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "K", #vermoede in plaats van bevroede 
+    "section": "M1",
+    "strofe": 60,
+    "rhyme_letter": "B",
+    "word1": "armoede",
+    "word2": "vermoede",
+    "rhyming_part1": "moede",
+    "rhyming_part2": "moede",
+    "normalized": "mode",
+    "vers1_id": "K_M1_60_770",
+    "vers2_id": "K_M1_60_779",
+    "vers1_pos": 3,
+    "vers2_pos": 12,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "L", #vermoede in plaats van bevroede 
+    "section": "M1",
+    "strofe": 60,
+    "rhyme_letter": "B",
+    "word1": "aermoede",
+    "word2": "vermoede",
+    "rhyming_part1": "moede",
+    "rhyming_part2": "moede",
+    "normalized": "mode",
+    "vers1_id": "L_M1_60_770",
+    "vers2_id": "L_M1_60_779",
+    "vers1_pos": 3,
+    "vers2_pos": 12,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "L", #lettergreep
+    "section": "M1",
+    "strofe": 70,
+    "rhyme_letter": "A",
+    "word1": "opsien",
+    "word2": "sien",
+    "rhyming_part1": "sien",
+    "rhyming_part2": "sien",
+    "normalized": "sin",
+    "vers1_id": "L_M1_70_898",
+    "vers2_id": "L_M1_70_905",
+    "vers1_pos": 1,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "L", #lettergreep
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "smaeken",
+    "word2": "smaeke",
+    "rhyming_part1": "smaeken",
+    "rhyming_part2": "smaeke",
+    "normalized": "smake",
+    "vers1_id": "L_M3_38_486",
+    "vers2_id": "L_M3_38_489",
+    "vers1_pos": 5,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #bestane in plaats van bevane
+    "section": "M1",
+    "strofe": 18,
+    "rhyme_letter": "B",
+    "word1": "verstane",
+    "word2": "bestane",
+    "rhyming_part1": "stane",
+    "rhyming_part2": "stane",
+    "normalized": "stane",
+    "vers1_id": "O_M1_18_224",
+    "vers2_id": "O_M1_18_230",
+    "vers1_pos": 3,
+    "vers2_pos": 9,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #lettergreep
+    "section": "M1",
+    "strofe": 35,
+    "rhyme_letter": "A",
+    "word1": "verplecht",
+    "word2": "plecht",
+    "rhyming_part1": "plecht",
+    "rhyming_part2": "plecht",
+    "normalized": "plegt",
+    "vers1_id": "O_M1_35_447",
+    "vers2_id": "O_M1_35_450",
+    "vers1_pos": 5,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O",  #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "ghetrect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "O_M1_38_486",
+    "vers2_id": "O_M1_38_488",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O",  #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "trect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "O_M1_38_486",
+    "vers2_id": "O_M1_38_492",
+    "vers1_pos": 5,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #lettergreep
+    "section": "M1",
+    "strofe": 49,
+    "rhyme_letter": "A",
+    "word1": "gheuoet",
+    "word2": "voet",
+    "rhyming_part1": "uoet",
+    "rhyming_part2": "voet",
+    "normalized": "fot",
+    "vers1_id": "O_M1_49_628",
+    "vers2_id": "O_M1_49_632",
+    "vers1_pos": 4,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #lettergreep
+    "section": "M1",
+    "strofe": 58,
+    "rhyme_letter": "B",
+    "word1": "toeghen",
+    "word2": "vertoeghen",
+    "rhyming_part1": "toeghen",
+    "rhyming_part2": "toeghen",
+    "normalized": "toge",
+    "vers1_id": "O_M1_58_750",
+    "vers2_id": "O_M1_58_754",
+    "vers1_pos": 9,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #vermoede in plaats van bevroede 
+    "section": "M1",
+    "strofe": 60,
+    "rhyme_letter": "B",
+    "word1": "aermoede",
+    "word2": "vermoede",
+    "rhyming_part1": "moede",
+    "rhyming_part2": "moede",
+    "normalized": "mode",
+    "vers1_id": "O_M1_60_770",
+    "vers2_id": "O_M1_60_779",
+    "vers1_pos": 3,
+    "vers2_pos": 12,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #lettergreep
+    "section": "M1",
+    "strofe": 70,
+    "rhyme_letter": "A",
+    "word1": "vpsien",
+    "word2": "zien",
+    "rhyming_part1": "sien",
+    "rhyming_part2": "zien",
+    "normalized": "sin",
+    "vers1_id": "O_M1_70_898",
+    "vers2_id": "O_M1_70_905",
+    "vers1_pos": 1,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #verbant in plaats van bewant
+    "section": "M2",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word1": "verbant",
+    "word2": "bant",
+    "rhyming_part1": "bant",
+    "rhyming_part2": "bant",
+    "normalized": "bant",
+    "vers1_id": "O_M2_07_080",
+    "vers2_id": "O_M2_07_083",
+    "vers1_pos": 2,
+    "vers2_pos": 5,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #lettergreep
+    "section": "M3",
+    "strofe": 2,
+    "rhyme_letter": "A",
+    "word1": "zinghe",
+    "word2": "singhe",
+    "rhyming_part1": "zinghe",
+    "rhyming_part2": "singhe",
+    "normalized": "singe",
+    "vers1_id": "O_M3_02_020",
+    "vers2_id": "O_M3_02_023",
+    "vers1_pos": 7,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #gheseit in plaats van ghereit
+    "section": "M3",
+    "strofe": 13,
+    "rhyme_letter": "B",
+    "word1": "ontseit",
+    "word2": "gheseit",
+    "rhyming_part1": "seit",
+    "rhyming_part2": "seit",
+    "normalized": "set",
+    "vers1_id": "O_M3_13_162",
+    "vers2_id": "O_M3_13_169",
+    "vers1_pos": 6,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #lettergreep
+    "section": "M3",
+    "strofe": 16,
+    "rhyme_letter": "A",
+    "word1": "anbleuen",
+    "word2": "bleuen",
+    "rhyming_part1": "bleuen",
+    "rhyming_part2": "bleuen",
+    "normalized": "blun",
+    "vers1_id": "O_M3_16_200",
+    "vers2_id": "O_M3_16_205",
+    "vers1_pos": 5,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #lettergreep
+    "section": "M3",
+    "strofe": 24,
+    "rhyme_letter": "B",
+    "word1": "kint",
+    "word2": "bekint",
+    "rhyming_part1": "kint",
+    "rhyming_part2": "kint",
+    "normalized": "kint",
+    "vers1_id": "O_M3_24_308",
+    "vers2_id": "O_M3_24_312",
+    "vers1_pos": 9,
+    "vers2_pos": 13,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #lettergreep
+    "section": "M3",
+    "strofe": 25,
+    "rhyme_letter": "A",
+    "word1": "emmermeere",
+    "word2": "meere",
+    "rhyming_part1": "meere",
+    "rhyming_part2": "meere",
+    "normalized": "mere",
+    "vers1_id": "O_M3_25_314",
+    "vers2_id": "O_M3_25_322",
+    "vers1_pos": 2,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "O", #lettergreep
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "smake",
+    "word2": "smaeke",
+    "rhyming_part1": "smake",
+    "rhyming_part2": "smaeke",
+    "normalized": "smake",
+    "vers1_id": "O_M3_38_486",
+    "vers2_id": "O_M3_38_489",
+    "vers1_pos": 5,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "W", #lettergreep
+    "section": "M3",
+    "strofe": 7,
+    "rhyme_letter": "A",
+    "word1": "gewerke",
+    "word2": "werke",
+    "rhyming_part1": "werke",
+    "rhyming_part2": "werke",
+    "normalized": "werke",
+    "vers1_id": "W_M3_07_080",
+    "vers2_id": "W_M3_07_088",
+    "vers1_pos": 2,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "W", #gelien in plaats van gedien
+    "section": "M3",
+    "strofe": 20,
+    "rhyme_letter": "A",
+    "word1": "gelien",
+    "word2": "lien",
+    "rhyming_part1": "lien",
+    "rhyming_part2": "lien",
+    "normalized": "lin",
+    "vers1_id": "W_M3_20_248",
+    "vers2_id": "W_M3_20_251",
+    "vers1_pos": 1,
+    "vers2_pos": 4,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "W", #lettergreep
+    "section": "M3",
+    "strofe": 21,
+    "rhyme_letter": "A",
+    "word1": "emmermeere",
+    "word2": "meere",
+    "rhyming_part1": "meere",
+    "rhyming_part2": "meere",
+    "normalized": "mere",
+    "vers1_id": "W_M3_21_270",
+    "vers2_id": "W_M3_21_271",
+    "vers1_pos": 10,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "W", #lettergreep
+    "section": "M3",
+    "strofe": 25,
+    "rhyme_letter": "A",
+    "word1": "emmermeere",
+    "word2": "meere",
+    "rhyming_part1": "meere",
+    "rhyming_part2": "meere",
+    "normalized": "mere",
+    "vers1_id": "W_M3_25_314",
+    "vers2_id": "W_M3_25_322",
+    "vers1_pos": 2,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "W", #lettergreep
+    "section": "M3",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "rake",
+    "word2": "gerake",
+    "rhyming_part1": "rake",
+    "rhyming_part2": "rake",
+    "normalized": "rake",
+    "vers1_id": "W_M3_38_486",
+    "vers2_id": "W_M3_38_488",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "Y", #lettergreep
+    "section": "M1",
+    "strofe": 9,
+    "rhyme_letter": "A",
+    "word1": "gelas",
+    "word2": "las",
+    "rhyming_part1": "las",
+    "rhyming_part2": "las",
+    "normalized": "las",
+    "vers1_id": "Y_M1_09_111",
+    "vers2_id": "Y_M1_09_115",
+    "vers1_pos": 7,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "Z", #gelijdt in plaats van glijt
+    "section": "M1",
+    "strofe": 33,
+    "rhyme_letter": "A",
+    "word1": "delijt",
+    "word2": "gelijdt",
+    "rhyming_part1": "lijt",
+    "rhyming_part2": "lijdt",
+    "normalized": "lit",
+    "vers1_id": "Z_M1_33_420",
+    "vers2_id": "Z_M1_33_426",
+    "vers1_pos": 4,
+    "vers2_pos": 10,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "Z", #lettergreep
+    "section": "M1",
+    "strofe": 35,
+    "rhyme_letter": "A",
+    "word1": "uerplecht",
+    "word2": "plecht",
+    "rhyming_part1": "plecht",
+    "rhyming_part2": "plecht",
+    "normalized": "plegt",
+    "vers1_id": "Z_M1_35_447",
+    "vers2_id": "Z_M1_35_450",
+    "vers1_pos": 5,
+    "vers2_pos": 8,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "Z",  #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "getrect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "Z_M1_38_486",
+    "vers2_id": "Z_M1_38_488",
+    "vers1_pos": 5,
+    "vers2_pos": 7,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "Z",  #'ontrect' in plaats van 'ontpect'
+    "section": "M1",
+    "strofe": 38,
+    "rhyme_letter": "A",
+    "word1": "ontrect",
+    "word2": "trect",
+    "rhyming_part1": "trect",
+    "rhyming_part2": "trect",
+    "normalized": "trekt",
+    "vers1_id": "Z_M1_38_486",
+    "vers2_id": "Z_M1_38_492",
+    "vers1_pos": 5,
+    "vers2_pos": 11,
+    "type": "lettergreeprijm"
+  },
+  {
+    "manuscript": "Z", #lettergreep
+    "section": "M1",
+    "strofe": 53,
+    "rhyme_letter": "B",
+    "word1": "bedrogen",
+    "word2": "bedroghen",
+    "rhyming_part1": "drogen",
+    "rhyming_part2": "droghen",
+    "normalized": "droge",
+    "vers1_id": "Z_M1_53_682",
+    "vers2_id": "Z_M1_53_688",
+    "vers1_pos": 6,
+    "vers2_pos": 12,
+    "type": "lettergreeprijm"
+  }
+]

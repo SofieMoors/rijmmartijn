@@ -1,0 +1,4 @@
+stelling1/data/matches_rijmbijbel/matches_cx.csv filter=lfs diff=lfs merge=lfs -text
+stelling1/data/matches_rijmbijbel/matches_nw.csv filter=lfs diff=lfs merge=lfs -text
+stelling1/data/matches_martijntrilogie/matches_cx.csv filter=lfs diff=lfs merge=lfs -text
+stelling1/data/matches_martijntrilogie/matches_nw.csv filter=lfs diff=lfs merge=lfs -text
